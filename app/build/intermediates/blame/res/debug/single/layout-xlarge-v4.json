@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main_fragment_holder.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-xlarge/main_fragment_holder.xml"
+    },
+    {
         "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main_fragment_holder.xml",
         "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/layout-xlarge/main_fragment_holder.xml"
     }

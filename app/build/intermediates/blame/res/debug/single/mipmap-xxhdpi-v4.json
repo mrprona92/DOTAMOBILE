@@ -2,5 +2,9 @@
     {
         "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
         "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     }
 ]

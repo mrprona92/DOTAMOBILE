@@ -3,6 +3,7 @@ package com.badr.infodota.base.activity;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.ActionMenuView;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
 
@@ -42,6 +43,7 @@ public class BaseActivity extends AppCompatActivity {
         if (mActionMenuView != null) {
             mActionMenuView.setVisibility(View.GONE);
         }
+        Log.d("TEST", "initActionBar() called with: " + "");
     }
 
     public ActionMenuView getActionMenuView() {
