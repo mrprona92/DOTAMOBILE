@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="90a3822c38ec8c996e84c16a3477ef632cbc87a3">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.3.2_f921ad88f40c21184578d474913a9546d8a3f150/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_87f49df5596abd13e6a92e9d4737e09016509cf9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_79963daa243ff76451debe75e42894fdbba82ab8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_cca24146b2bb29f6ea5df56d29a03662afd09105/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/libs/YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/2/YouTubeAndroidPlayerApi_9ec98d361ec410bb9f6dc2b04e3822e35a504a3a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.8.3/65fd012581ded67bc20945d85c32b4598c3a9cf1/jsoup-1.8.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsoup-1.8.3_3e4a13becd3fc39ee92bc7b03202b97e87da125d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_0f7b1b0ee078bfa3c4bee106f0d44cf00d6be241/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2e87890bfc12fc6e9f41b32371e89e3aec7621ec">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_808beaf63d15245ccb2fe38baf288f2e20082f88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="2581ae4c514dde46cb1e8d68a5b68cd4f74cf1c5">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a0713b05e15b9a9004ea3677fb7d865f22ca17b6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.1_4c018e369c1767a775b0060938cd8aaa33f7afef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_68e030c88787a2c1f48eefde4f028dcba5ec7bc6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_69682e6c6d092957812a660eeafee1915fdf69a1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_20c12aad94ed7566f498ac7428da03deceb36a29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-1.9.0_5e8bb9336970cc9f413629fea1054f6f417a0c95/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.9/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="741941bec80d0ab35edf9cee5410862cdac81f70">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/pl.droidsonroids.gif-android-gif-drawable-1.1.9_46d13ab65ff3732eb8d48987f48fb363537bf13d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_c7d13e2abb8a4d174460e107d4623b3f17ff1c59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-io/1.3.2/b6dde38349ba9bb5e6ea6320531eae969985dae5/commons-io-1.3.2.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="b6dde38349ba9bb5e6ea6320531eae969985dae5">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-io-1.3.2_2c7815fd484cfdd7f456323997c83b6b01792cfb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="75c54c470e19b251749e6e6c2cf3d73c0b50aa64">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.pnikosis-materialish-progress-1.5_30ca0099dc63ec0b0649349ac15bd44c6c0ee73c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.PhilJay/MPAndroidChart/v2.1.3/a3bd5f9dd0a98914faee607d51e22ae172cad4a/MPAndroidChart-v2.1.3.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="0a3bd5f9dd0a98914faee607d51e22ae172cad4a">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/MPAndroidChart-v2.1.3_8dbda75b0ff4f0bff767bb5d5aad635213e63ad8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="68d42cee812fbf63d8bf00a1598fbb4153a1dcec">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/jp.wasabeef-glide-transformations-1.2.1_534c187c867aafc95806d012ee6406d03f7f2907/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.octo.android.robospice/robospice/1.4.14/fffe1563473feb2f956608554d3e97ad805914a7/robospice-1.4.14.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="fffe1563473feb2f956608554d3e97ad805914a7">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/robospice-1.4.14_35e93cbcf3d2e27121d8fc9643d0d65ac8ea1f63/classes.dex" />
+    </item>
+    <item
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.octo.android.robospice/robospice-cache/1.4.14/1a13bea0b3ae105c44cb6be7fc76b6d36098faf5/robospice-cache-1.4.14.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1a13bea0b3ae105c44cb6be7fc76b6d36098faf5">
+        <dex dex="/Users/admin/Downloads/Infodota-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/robospice-cache-1.4.14_73b448a00afb5c87441e2bda7c65a45b1ed5a877/classes.dex" />
+    </item>
+
+</items>

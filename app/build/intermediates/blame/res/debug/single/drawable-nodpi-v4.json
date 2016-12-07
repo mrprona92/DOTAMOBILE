@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/default_img.png",
+        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/drawable-nodpi/default_img.png"
+    },
+    {
+        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/drawable-nodpi-v4/empty_item.png",
+        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/drawable-nodpi/empty_item.png"
+    }
+]

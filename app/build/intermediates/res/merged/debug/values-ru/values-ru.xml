@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cosmetic_items_filter">
+        <item>Все</item>
+        <item>Носимые предметы</item>
+        <item>Карточки игроков</item>
+        <item>Инструменты</item>
+        <item>Наборы</item>
+        <item>Сундуки</item>
+    </string-array>
+    <string-array name="hero_response_actions">
+        <item>Скачать</item>
+        <item>Установить как рингтон</item>
+    </string-array>
+    <string-array name="hero_roles">
+        <item>Все</item>
+        <item>Carry</item>
+        <item>Disabler</item>
+        <item>Durable</item>
+        <item>Escape</item>
+        <item>Initiator</item>
+        <item>Jungler</item>
+        <item>Lane Support</item>
+        <item>Nuker</item>
+        <item>Pusher</item>
+        <item>Support</item>
+    </string-array>
+    <string-array name="item_actions">
+        <item>Изменить описание</item>
+        <item>Удалить</item>
+    </string-array>
+    <string-array name="item_types">
+        <item>Все</item>
+        <item>Мистика</item>
+        <item>Вооружение</item>
+        <item>Броня</item>
+        <item>Артефакты</item>
+        <item>Атрибуты</item>
+        <item>Магия</item>
+        <item>Общее</item>
+        <item>Расходуемые</item>
+        <item>Поддержка</item>
+        <item>Потайная лавка</item>
+        <item>Оружие</item>
+    </string-array>
+    <string-array name="lobby_types">
+        <item>Обычная игра</item>
+        <item>Практика</item>
+        <item>Чемпионат</item>
+        <item>Туториал</item>
+        <item>Совместная с ботами</item>
+        <item>Командный матч</item>
+        <item>Соло игра</item>
+        <item>Рейтинговая игра</item>
+        <item>1 на 1</item>
+    </string-array>
+    <string-array name="main_menu">
+        <item>ГЕРОИ</item>
+        <item>ПРЕДМЕТЫ</item>
+        <item>ИГРОКИ</item>
+        <item>КОНТРПИК</item>
+        <item>ШМОТКИ</item>
+        <item>ВИКТОРИНА</item>
+        <item>TWITCH.TV</item>
+        <item>НОВОСТИ</item>
+        <item>ТУРНИРНЫЕ ИГРЫ</item>
+        <item>TRACKDOTA</item>
+        <!--<item>THE INTERNATIONAL</item>-->
+    </string-array>
+    <string-array name="map_barracks_line">
+        <item>верхние</item>
+        <item>центральные</item>
+        <item>нижние</item>
+    </string-array>
+    <string-array name="map_tower_line">
+        <item>верхнюю</item>
+        <item>центральную</item>
+        <item>нижнюю</item>
+    </string-array>
+    <string-array name="match_history_title">
+        <item>ПОИСК</item>
+        <item>ДРУЗЬЯ</item>
+        <item>ПРО</item>
+    </string-array>
+    <string-array name="player_common_stats_titles">
+        <item>Общая</item>
+        <item>В минуту</item>
+    </string-array>
+    <string-array name="player_info_tabs">
+        <item>ДРУЗЬЯ</item>
+        <item>АРСЕНАЛ</item>
+        <item>ИСТОРИЯ МАТЧЕЙ</item>
+        <item>ОбЩАЯ СТАТА</item>
+        <item>СТАТА ПО ГЕРОЯМ</item>
+    </string-array>
+    <string-array name="player_types">
+        <item>Встроенный плеер</item>
+        <item>Сторонний плеер стримов</item>
+        <item>Сторонний плеер видео</item>
+    </string-array>
+    <string-array name="statsByHero_date">
+        <item>За все время</item>
+        <item>В этом месяце</item>
+        <item>На этой неделе</item>
+        <item>Патч 6.84</item>
+        <item>Патч 6.84b</item>
+        <item>Патч 6.84c(текущий)</item>
+    </string-array>
+    <string-array name="statsByHero_game_mode">
+        <item>Все режимы</item>
+        <item>Ability Draft</item>
+        <item>All Pick</item>
+        <item>All Random</item>
+        <item>Captains Draft</item>
+        <item>Captains Mode</item>
+        <item>Least Played</item>
+        <item>Limited Hero Pool</item>
+        <item>Random Draft</item>
+        <item>Single Draft</item>
+        <item>All Random Deathmatch</item>
+        <item>1 vs 1 Solo Mid</item>
+    </string-array>
+    <string-array name="statsByHero_metric">
+        <item>Наибольшее количество игр</item>
+        <item>Высочайший винрейт</item>
+        <item>Наибольший вклад в игру</item>
+        <item>Лучший фарм</item>
+    </string-array>
+    <string-array name="statsCommon_date">
+        <item>За все время</item>
+        <item>На этой неделе</item>
+        <item>В этом месяце</item>
+        <item>Последние 3 месяца</item>
+        <item>Последние 6 месяцев</item>
+        <item>Последний год</item>
+        <item>Патч 6.84</item>
+        <item>Патч 6.84b</item>
+        <item>Патч 6.84c(текущий)</item>
+    </string-array>
+    <string-array name="statsCommon_game_mode">
+        <item>Все режимы</item>
+        <item>Ability Draft</item>
+        <item>All Pick</item>
+        <item>All Random</item>
+        <item>Captains Draft</item>
+        <item>Captains Mode</item>
+        <item>Least Played</item>
+        <item>Limited Hero Pool</item>
+        <item>Random Draft</item>
+        <item>Single Draft</item>
+        <item>All Random Deathmatch</item>
+        <item>1 vs 1 Solo Mid</item>
+    </string-array>
+    <string-array name="statsCommon_lobby_type">
+        <item>Все матчи</item>
+        <item>Normal Matchmaking</item>
+        <item>Ranked Matchmaking</item>
+        <item>Team Matchmaking</item>
+        <item>Solo Matchmaking</item>
+    </string-array>
+    <string-array name="statsCommon_result">
+        <item>Все результаты</item>
+        <item>Победы</item>
+        <item>Поражения</item>
+    </string-array>
+    <string-array name="stats_dateType">
+        <item>За все время</item>
+        <item>На этой неделе</item>
+        <item>В этом месяце</item>
+    </string-array>
+    <string-array name="trackdota">
+        <item>LIVE</item>
+        <item>ПОПУЛЯРНЫЕ</item>
+        <item>НЕДАВНИЕ</item>
+        <item>ТУРНИРЫ</item>
+    </string-array>
+    <string-array name="trackdota_game">
+        <item>ОСНОВНОЕ</item>
+        <item>КАРТА &amp; ГЕРОИ</item>
+        <item>ГРАФИКИ</item>
+        <item>СТАТИСТИКА</item>
+        <item>ЛОГИ</item>
+        <item>СТРИМЫ</item>
+    </string-array>
+    <string-array name="trackdota_player_stats">
+        <item>Ценность</item>
+        <item>Уровень</item>
+        <item>Текущее золото</item>
+        <item>K / D / A</item>
+        <item>GPM / XPM</item>
+        <item>Добиваний / Денаев</item>
+        <item>Убийств</item>
+        <item>Смертей</item>
+        <item>Помощей</item>
+        <item>Золота в минуту</item>
+        <item>Опыта в минуту</item>
+        <item>Добиваний</item>
+        <item>Денаев</item>
+    </string-array>
+    <string-array name="trackdota_team_charts">
+        <item>Разница в золоте</item>
+        <item>Разница в опыте</item>
+    </string-array>
+    <string-array name="truepicker_level">
+        <item>Новичок</item>
+        <item>Ученик</item>
+        <item>Любитель</item>
+        <item>Мастер</item>
+    </string-array>
+    <string-array name="truepicker_roles">
+        <item>Carry</item>
+        <item>Support</item>
+        <item>Ganker</item>
+        <item>Pusher</item>
+        <item>Initiator</item>
+        <item>Jungler</item>
+        <item>Соло в сложную</item>
+        <item>Соло мид</item>
+        <item>Соло в легкую</item>
+        <item>Трое в легкую</item>
+        <item>Трое в сложную</item>
+    </string-array>
+    <string-array name="twitch_pages_title">
+        <item>Текущие</item>
+        <item>Избранные</item>
+    </string-array>
+    <string name="abandoned">Покинул игру</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="achievements">Достижения</string>
+    <string name="add">Добавить</string>
+    <string name="add_calendar_event">Добавить событие в календарь</string>
+    <string name="add_channel">Добавить избранный канал</string>
+    <string name="add_game_part">Добавить стадию игры</string>
+    <string name="add_guide">Добавить гайд</string>
+    <string name="add_player_title">Добавить игрока в список</string>
+    <string name="add_tooltip">Добавить подсказку</string>
+    <string name="afk">АФК</string>
+    <string name="alert">Внимание!</string>
+    <string name="alive">Живой</string>
+    <string name="allies">Союзники:</string>
+    <string name="allies_selected">Союзников выбрано: {0}</string>
+    <string name="any_role">Любая роль</string>
+    <string name="api_is_down">Dota 2 API недоступно. Матчи не будут обновляться, пока API не поднимется</string>
+    <string name="armor">Броня</string>
+    <string name="assists"><b>Помощей:</b></string>
+    <string name="assists_">Помощей: {0}</string>
+    <string name="assists_header">Ассистов</string>
+    <string name="attack_duration">Анимация атаки</string>
+    <string name="attack_range">Дальность атаки</string>
+    <string name="attacks_per_second">Ударов/сек</string>
+    <string name="attempt">Попыток:</string>
+    <string name="attention">Внимание</string>
+    <string name="author">Автор:</string>
+    <string name="back">Назад</string>
+    <string name="back_toast">Нажмите снова для выхода</string>
+    <string name="bans">Баны:</string>
+    <string name="bans_">Баны {0}</string>
+    <string name="barrack_melee">ближнего</string>
+    <string name="barrack_ranged">дальнего</string>
+    <string name="base_about">О приложении</string>
+    <string name="base_no_thanks">Нет, спасибо</string>
+    <string name="base_rate">Оценить</string>
+    <string name="base_rate_app">Оценить приложение</string>
+    <string name="base_rate_app_name">Оцените {0}</string>
+    <string name="base_rate_message">Если Вам нравится приложение {0}, пожалуйста, оцените его.\n
+        Спасибо за Вашу поддержку!</string>
+    <string name="best_kda">Лучший KDA:</string>
+    <string name="bo">БО</string>
+    <string name="bot">Бот</string>
+    <string name="by_abilities">По скилам</string>
+    <string name="by_items">По предметам</string>
+    <string name="by_random">Все подряд</string>
+    <string name="cast_duration">Анимация заклинаний</string>
+    <string name="cd">Кулдаун:</string>
+    <string name="change_language">Изменить язык приложения</string>
+    <string name="channel_name">Имя канала</string>
+    <string name="check_new_version">Проверить обновление</string>
+    <string name="choose_hero_skill">Выберите умение этого героя:</string>
+    <string name="choose_items_from">Выберите из каких предметов состоит этот:</string>
+    <string name="coming_soon">Скоро</string>
+    <string name="common">ОСНОВНОЕ</string>
+    <string name="core_items">ОСНОВНЫЕ ПРЕДМЕТЫ</string>
+    <string name="core_items_secondary">ОСНОВНЫЕ ПРЕДМЕТЫ (ДЛЯ ДОП.СУЩЕСТВ)</string>
+    <string name="could_not_load_match">Не удалось загрузить матч</string>
+    <string name="counters_not_found">Рекомендаций не найдено</string>
+    <string name="current_prizepool">Призовой фонд: ${0}</string>
+    <string name="damage">Урон</string>
+    <string name="date">Дата:</string>
+    <string name="dead">Мертв</string>
+    <string name="deaths"><b>Смертей:</b></string>
+    <string name="deaths_">Смертей: {0}</string>
+    <string name="deaths_header">Смертей</string>
+    <string name="default_guide">ПРЕДМЕТЫ</string>
+    <string name="delete">Удалить</string>
+    <string name="delete_guide">Удалить гайд</string>
+    <string name="delete_player_msg">Вы уверены, что хотите удалить {0} из списков?</string>
+    <string name="delete_player_title">Удалить игрока из списка</string>
+    <string name="denies"><b>Денаев:</b></string>
+    <string name="denies_">Денаев: {0}</string>
+    <string name="dire_win">Dire победили</string>
+    <string name="disconnected">Отключился</string>
+    <string name="download">Скачать</string>
+    <string name="early_game">ДЛЯ РАННЕЙ ИГРЫ</string>
+    <string name="early_game_secondary">ДЛЯ РАННЕЙ ИГРЫ (ДЛЯ ДОП.СУЩЕСТВ)</string>
+    <string name="edit_guide">Изменить гайд</string>
+    <string name="empty_match_hostory">Игры не найдены</string>
+    <string name="empty_player_group_list">Добавьте игроков в группу \n
+        (нажмите на + возле ника игрока на вкладке ПОИСК),\n
+        чтобы видеть их здесь.
+    </string>
+    <string name="empty_player_list">Для того, чтобы видеть свою статистику в этом разделе, \n
+        Вам необходимо зайти в клиент Dota 2, \n
+        выбрать Настройки(Settings)->Игра(Game)->Общие(General) \n
+        и установить для настройки Публичная история матчей (Share Match History) значение Вкл(On). \n
+        Через некоторое время после этого, введя свой ник в поле сверху, вы увидите свою статистику.
+    </string>
+    <string name="empty_truepicker">Подходящих героев не найдено</string>
+    <string name="enemies">Противники:</string>
+    <string name="enemies_selected">Противников выбрано: {0}</string>
+    <string name="error">Ошибка</string>
+    <string name="error_during_load">Во время загрузки возникла ошибка</string>
+    <string name="error_loading">Ошибка загрузки данных. Проверьте подключение к интернету и повторите снова</string>
+    <string name="exit_msg">Уверены,что хотите выйти?</string>
+    <string name="experience_">Опыта: {0}</string>
+    <string name="file_saving_error">Ошибка сохранения файла</string>
+    <string name="filter">ФИЛЬТР</string>
+    <string name="find_me_on_dotabuff">Найти меня на Dotabuff</string>
+    <string name="finished">Матч окончен</string>
+    <string name="game">Игра</string>
+    <string name="game_mode">Мод игры:</string>
+    <string name="game_over">Вы проиграли!</string>
+    <string name="game_part_name">Название части игры</string>
+    <string name="game_watch_help">Для просмотра игр необходимо установить приложение Twitch. Данное приложение не
+        установлено на устройстве. Желаете его установить?
+    </string>
+    <string name="gold"><b>Золота:</b></string>
+    <string name="gold_">Золота: {0}</string>
+    <string name="gpm"><b>GPM:</b></string>
+    <string name="gpm_">GPM: {0}</string>
+    <string name="gpm_header">Золото / Минута</string>
+    <string name="grid_carousel">Сетка/карусель</string>
+    <string name="guide">Гайд:</string>
+    <string name="guide_creator_message">Гайды состоят из 2х частей:\n
+        -Предметы\n
+        -Способности\n
+        В предметах можно добавлять несколько разделов (этапов игры). Для каждого предмета предлагается добавить подсказку (нажав на добавленный предмет).\n
+        В способностях нужно указать, на каком уровне какую способность нужно прокачать. Нажав на способность, вы можете добавить подсказку к ней.\n
+        После сохранения гайда Вы можете отправить его мне на почту (на странице гайдов героя), чтобы я добавил его в приложение для всех. Гайды без подсказок добавляться не будут!
+    </string>
+    <string name="guide_deleted">Гайд удален</string>
+    <string name="guide_deletion_error">Не удалось удалить файл</string>
+    <string name="guide_name">Название гайда</string>
+    <string name="guide_next">Продолжить</string>
+    <string name="guide_saved">Гайд сохранен!</string>
+    <string name="guides">ГАЙДЫ</string>
+    <string name="hero_damage"><b>Урона героям:</b></string>
+    <string name="hero_damage_">Урон: {0}</string>
+    <string name="hero_header">Герой</string>
+    <string name="hero_healing"><b>Вылечено хп героям:</b></string>
+    <string name="hero_healing_">Вылечено: {0}</string>
+    <string name="hero_roles">Роль героя</string>
+    <string name="hero_status">Статус героя:</string>
+    <string name="heroes_list">Загружаем список героев</string>
+    <string name="heroes_search">Поиск по героям</string>
+    <string name="highest_assists">Наибольшее кол-во ассистов:</string>
+    <string name="highest_assists_pm">Наибольшее кол-во ассистов в минуту:</string>
+    <string name="highest_deaths">Наибольшее кол-во смертей:</string>
+    <string name="highest_deaths_pm">Наибольшее кол-во смертей в минуту:</string>
+    <string name="highest_denies">Наибольшее кол-во денаев:</string>
+    <string name="highest_denies_pm">Наибольшее кол-во денаев в минуту:</string>
+    <string name="highest_experience">Наибольшее кол-во опыта:</string>
+    <string name="highest_gold">Наибольшее кол-во золота:</string>
+    <string name="highest_gpm">Самый высокий GPM:</string>
+    <string name="highest_hd">Наибольший урон по вражеским героям:</string>
+    <string name="highest_hd_pm">Наибольший урон по вражеским героям в минуту:</string>
+    <string name="highest_hh">Наибольший хил союзников:</string>
+    <string name="highest_hh_pm">Наибольший хил союзников в минуту:</string>
+    <string name="highest_kill_participation">Наилучший % участия в убийствах:</string>
+    <string name="highest_kills">Наибольшее кол-во убийств:</string>
+    <string name="highest_kills_pm">Наибольшее кол-во убийств в минуту:</string>
+    <string name="highest_last_hits">Наибольшее кол-во убитых крипов:</string>
+    <string name="highest_lh_pm">Наибольшее кол-во убитых крипов в минуту:</string>
+    <string name="highest_td">Наибольший урон по башням:</string>
+    <string name="highest_td_pm">Наибольший урон по башням в минуту:</string>
+    <string name="highest_xpm">Самый высокий XPM:</string>
+    <string name="hp">Здоровье</string>
+    <string name="in_hero_selection">Процесс банопика</string>
+    <string name="in_progress">Матч идет</string>
+    <string name="info">ИНФО</string>
+    <string name="install">Установить</string>
+    <string name="instant">Мгновенная</string>
+    <string name="invert_selection">Инвертировать выбор</string>
+    <string name="is_ready">Готов</string>
+    <string name="item_build">ИТЕМ БИЛД</string>
+    <string name="kda_">KDA: {0}</string>
+    <string name="kda_header">КДА</string>
+    <string name="kill_participation_">Процент: {0}</string>
+    <string name="kills"><b>Убийств:</b></string>
+    <string name="kills_">Убийств: {0}</string>
+    <string name="kills_header">Убийств</string>
+    <string name="language">russian</string>
+    <string name="last_hits"><b>Добиваний:</b></string>
+    <string name="last_hits_">Добиваний: {0}</string>
+    <string name="last_updated_time">Последнее обновление: {0}</string>
+    <string name="leaderboards">Рекорды</string>
+    <string name="leaved">Нажал \'покинуть\'</string>
+    <string name="level">Уровень</string>
+    <string name="loading">Загрузка…</string>
+    <string name="loading_complete">Загрузка завершена</string>
+    <string name="loading_data_for">Загружаем данные для: {0}</string>
+    <string name="loading_heroes_completed_and_stoped">Загрузка завершена.\n
+        Если вы видите это сообщение, значит у вас не установлена последняя версия Google play сервисов. Попробуйте
+        обновить их и перезапустить приложение
+    </string>
+    <string name="loading_response_error">Ошибка при загрузке реплики</string>
+    <string name="lobby_type">Тип лобби:</string>
+    <string name="locale">Сменить язык</string>
+    <string name="log_hero_buys_back">{0} выкупился в игру</string>
+    <string name="log_hero_drops_item">{0} потерял свою {1}</string>
+    <string name="log_item_pickup">{0} поднял {1}</string>
+    <string name="log_item_purchased">{0} купил {1}</string>
+    <string name="log_item_sold">{0} продал {1}</string>
+    <string name="log_item_used">{0} использовал {1}</string>
+    <string name="log_team_loses_barracks">{0} потеряли {1} бараки {2} боя</string>
+    <string name="log_team_loses_tower">{0} потеряли {1} Т{2} вышку</string>
+    <string name="login_with_steam">Войти через Steam</string>
+    <string name="longest_lost_streak">Максимум поражений подряд:</string>
+    <string name="longest_match_duration">Самый долгий матч:</string>
+    <string name="longest_win_streak">Максимум побед подряд:</string>
+    <string name="lost">Поражение</string>
+    <string name="lost_streak_">Поражений Подряд: {0}</string>
+    <string name="luxury_items">ПО СИТУАЦИИ</string>
+    <string name="makes_from">Собирается из:</string>
+    <string name="makes_to">Собирается в:</string>
+    <string name="match_history">ИСТОРИЯ МАТЧЕЙ</string>
+    <string name="match_history_closed">Невозможно получить историю матчей игрока, т.к. он ее скрыл</string>
+    <string name="match_id">ID матча</string>
+    <string name="match_id_">ID матча:</string>
+    <string name="match_length">Длительность:</string>
+    <string name="match_length_">Длительность: {0}</string>
+    <string name="match_short_info">Кратко</string>
+    <string name="match_status_unknown">Неизвестный статус</string>
+    <string name="match_type">Тип матча:</string>
+    <string name="matches_">{0} матчей</string>
+    <string name="matches_played_header">Матчей Сыграно</string>
+    <string name="mc">Расход маны:</string>
+    <string name="melee">{0} (Ближний)</string>
+    <string name="metric">Тип статистики:</string>
+    <string name="minutes_">{0} минут</string>
+    <string name="missile_speed">Скорость полета снаряда</string>
+    <string name="movespeed">Скорость передвижения</string>
+    <string name="mp">Мана</string>
+    <string name="native_player">Встроенный плеер</string>
+    <string name="net_worth"><b>Net worth:</b></string>
+    <string name="network_unavailable">Отсутствует подключение к интернету</string>
+    <string name="never_connected">Не загрузился</string>
+    <string name="never_connected_too_long">Не загрузился</string>
+    <string name="new_app_available">Доступна новая версия!</string>
+    <string name="new_version">Новая версия</string>
+    <string name="nick_search">Поиск по нику</string>
+    <string name="nickname">Ник игрока</string>
+    <string name="no_mana">Не хватает маны</string>
+    <string name="no_more_games">Больше игр нет</string>
+    <string name="no_more_news">Больше новостей нет</string>
+    <string name="no_new_version">Новая версия не обнаружена</string>
+    <string name="not_levelled">Не изучен</string>
+    <string name="not_now">Пропустить</string>
+    <string name="not_picked">Не выбрал</string>
+    <string name="on_cooldown">Кулдаун {0} с.</string>
+    <string name="part_of_set">Часть комплекта:</string>
+    <string name="paused">Пауза</string>
+    <string name="picks">Пики:</string>
+    <string name="picks_">Пики {0}</string>
+    <string name="picks_and_bans">Пики и Баны</string>
+    <string name="player">Плеер</string>
+    <string name="player_dies_">{0} умер</string>
+    <string name="player_dies_multiple_">{0} умер {1} раз(а)</string>
+    <string name="player_kills_">{0} убил героя</string>
+    <string name="player_kills_multiple_">{0} убил {1} героев</string>
+    <string name="players_level">Ваш уровень:</string>
+    <string name="press_refresh_button">Нажмите кнопку \'Обновить\'</string>
+    <string name="quality">Качество</string>
+    <string name="quiz">ВИКТОРИНА</string>
+    <string name="radiant_win">Radiant победили</string>
+    <string name="ready">Готово</string>
+    <string name="recipe">Рецепт</string>
+    <string name="recommended_to_you">Рекомендованные вам:</string>
+    <string name="record">Общий счет: {0}-{1}</string>
+    <string name="record_attempt">На время</string>
+    <string name="record_attempt_help">При игре на время помимо стандартных 3х попыток, у вас есть ограничение по времени в 60 секунд. \n
+        За каждый правильный ответ вам добавляется еще пол секунды.</string>
+    <string name="record_with_win_rate">Общий счет: {0}-{1} ({2})</string>
+    <string name="refresh">Обновить</string>
+    <string name="repeat">Повторить</string>
+    <string name="respawn_in">Возродится через {0} с.</string>
+    <string name="response_dialog_title">Действия с репликами</string>
+    <string name="response_search">Поиск по реплике</string>
+    <string name="responses">РЕПЛИКИ</string>
+    <string name="result">Результат:</string>
+    <string name="right">Правильно!</string>
+    <string name="ringtone_set">Рингтон установлен!</string>
+    <string name="roshan_death">Рошан был убит</string>
+    <string name="roshan_respawn">Рошан возродился</string>
+    <string name="roshan_status">Статус Рошана:</string>
+    <string name="save">Сохранить</string>
+    <string name="score">Счет:</string>
+    <string name="search">Искать</string>
+    <string name="search_history">История поиска:</string>
+    <string name="search_match">Поиск игры по matchId</string>
+    <string name="seconds_remaining">Осталось: {0} сек.</string>
+    <string name="select">Выбрать</string>
+    <string name="select_action">Выберите действие</string>
+    <string name="send_guide">Отправить разработчику</string>
+    <string name="send_mail">Отправить письмо…</string>
+    <string name="show_records">Показать рекорды</string>
+    <string name="show_results">Показать результат</string>
+    <string name="show_right">Правильный ответ</string>
+    <string name="sight_range">Видимость (день/ночь)</string>
+    <string name="skill_build">СКИЛЛ БИЛД</string>
+    <string name="skill_tooltip">Подсказка к скилу</string>
+    <string name="skills">СКИЛЫ</string>
+    <string name="start_time">Время начала:</string>
+    <string name="starting_items">НАЧАЛЬНЫЕ ПРЕДМЕТЫ</string>
+    <string name="starting_items_secondary">НАЧАЛЬНЫЕ ПРЕДМЕТЫ (ДЛЯ ДОП.СУЩЕСТВ)</string>
+    <string name="stat_not_found">Данные отсутствуют</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="streams">Видео стримы</string>
+    <string name="streams_">{0} стримов</string>
+    <string name="sure_delete_Guide">Уверены,что хотите удалить гайд?</string>
+    <string name="sure_delete_part">Уверены, что хотите удалить часть?</string>
+    <string name="team_wins_">Победа {0}!</string>
+    <string name="time">Временной интервал:</string>
+    <string name="tooltips">ПОДСКАЗКИ</string>
+    <string name="tooltips_for_items">По предметам:</string>
+    <string name="tooltips_for_skills">По скилам:</string>
+    <string name="total_score">Ваш счет: {0}</string>
+    <string name="tower_damage"><b>Урона вышкам:</b></string>
+    <string name="tower_damage_">Урон: {0}</string>
+    <string name="trackdota_match">Открыть через Trackdota</string>
+    <string name="truepicker_attention">Для функции контрпик используется апи сервиса TruePicker.com.\n
+        Поэтому функция контрпик работает только при наличии интернет-соединения.\n
+        Победа в случае выбора указанного героя Вам не гарантируется.\n
+        Все претензии по поводу подсказанных героев просьба отправлять поддержке сайта TruePicker.com.
+    </string>
+    <string name="truepicker_hero_roles">Выберите роли героя</string>
+    <string name="turn_rate">Скорость поворота</string>
+    <string name="twitch_attention">Функция проигрывания стримов с Twitch.tv находится в стадии бета-тестирования.\n
+        Просьба на все вылеты отправлять сообщения об ошибке, либо писать на почту, указанную в в информации о приложении.
+    </string>
+    <string name="ult_status">Статус ульта:</string>
+    <string name="unknown_nickname">Ник неизвестен</string>
+    <string name="unspecified_league">Неизвестная лига</string>
+    <string name="upcoming_matches">РАСПИСАНИЕ</string>
+    <string name="view_original">Показать оригинал</string>
+    <string name="viewers_">{0} смотрящих</string>
+    <string name="waiting_for_horn">Ожидание начала</string>
+    <string name="watch_on_youtube">Смотреть на YouTube</string>
+    <string name="win">Победа</string>
+    <string name="winRate">Общий процент побед: {0}</string>
+    <string name="winRate_header">Винрейт</string>
+    <string name="win_streak_">Побед Подряд: {0}</string>
+    <string name="wrong">Неправильно!</string>
+    <string name="xpm"><b>XPM:</b></string>
+    <string name="xpm_">XPM: {0}</string>
+    <string name="xpm_header">Опыт / Минута</string>
+</resources>

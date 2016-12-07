@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:2:1-122:12
+	package
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:4:5-35
+uses-permission#android.permission.INTERNET
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:10:5-73
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:10:22-70
+application
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:12:5-121:19
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.pnikosis:materialish-progress:1.5] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:16:9-41
+	android:fullBackupContent
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:14:9-41
+	android:allowBackup
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:17:9-40
+activity#com.badr.infodota.base.activity.SteamLoginActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:19:9-22:52
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:21:13-74
+	android:theme
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:22:13-49
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:20:13-61
+activity#com.badr.infodota.base.activity.LoaderActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:24:9-34:20
+	android:screenOrientation
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:28:13-55
+	android:launchMode
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:27:13-48
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:26:13-74
+	android:theme
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:25:13-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.badr.infodota.base.activity.ListHolderActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:35:9-38:59
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:38:13-56
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:37:13-74
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:36:13-61
+activity#com.badr.infodota.hero.activity.HeroInfoActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:39:9-41:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:40:13-59
+activity#com.badr.infodota.hero.activity.GuideActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:42:9-44:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:43:13-56
+activity#com.badr.infodota.item.activity.ItemInfoActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:45:9-47:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:47:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:46:13-59
+activity#com.badr.infodota.match.activity.MatchDetailsActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:48:9-50:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:50:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:49:13-64
+activity#com.badr.infodota.player.activity.PlayerInfoActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:51:9-54:57
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:54:13-54
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:53:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:52:13-63
+activity#com.badr.infodota.match.activity.MatchPlayerDetailsActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:55:9-57:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:57:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:56:13-70
+activity#com.badr.infodota.base.activity.AboutActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:58:9-60:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:60:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:59:13-56
+activity#com.badr.infodota.quiz.activity.QuizActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:61:9-63:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:63:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:62:13-55
+activity#com.badr.infodota.hero.activity.GuideCreatorActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:64:9-66:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:66:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:65:13-63
+activity#com.badr.infodota.item.activity.ItemSelectActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:67:9-69:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:69:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:68:13-61
+activity#com.badr.infodota.player.activity.PlayerByHeroStatsActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:70:9-72:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:72:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:71:13-70
+activity#com.badr.infodota.player.activity.PlayerCommonStatsActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:73:9-75:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:75:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:74:13-70
+activity#com.badr.infodota.cosmetic.activity.CosmeticItemDetailsActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:76:9-78:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:78:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:77:13-74
+activity#com.badr.infodota.stream.activity.TwitchPlayActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:79:9-83:64
+	android:screenOrientation
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:82:13-50
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:81:13-68
+	android:theme
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:83:13-61
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:80:13-63
+activity#com.badr.infodota.counter.activity.CounterPickerHeroesSelectActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:84:9-92:20
+	android:windowSoftInputMode
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:88:13-56
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:86:13-74
+	android:uiOptions
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:87:13-57
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:85:13-79
+meta-data#android.support.UI_OPTIONS
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:89:13-91:60
+	android:value
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:91:17-57
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:90:17-58
+activity#com.badr.infodota.news.activity.NewsItemActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:94:9-96:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:96:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:95:13-59
+activity#com.badr.infodota.joindota.activity.LeagueGameActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:98:9-100:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:100:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:99:13-65
+activity#com.badr.infodota.trackdota.activity.TrackdotaGameInfoActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:101:9-103:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:103:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:102:13-73
+activity#com.badr.infodota.trackdota.activity.TrackdotaLeagueInfoActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:104:9-106:70
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:106:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:105:13-75
+activity#com.badr.infodota.base.activity.TI4Activity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:107:9-109:71
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:109:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:108:13-54
+activity#com.util.infoparser.InfoParserActivity
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:110:9-111:70
+	android:configChanges
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:111:13-68
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:110:19-72
+service#com.octo.android.robospice.UncachedSpiceService
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:115:9-116:39
+	android:exported
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:116:13-37
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:115:18-80
+service#com.badr.infodota.base.service.LocalSpiceService
+ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:117:9-119:39
+	android:exported
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:119:13-37
+	android:name
+		ADDED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml:118:13-59
+uses-sdk
+INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.9] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/pl.droidsonroids.gif/android-gif-drawable/1.1.9/AndroidManifest.xml:6:5-8:41
+MERGED from [com.pnikosis:materialish-progress:1.5] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.pnikosis/materialish-progress/1.5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [Infodota-master:appbase:unspecified] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/Infodota-master/appbase/unspecified/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:glide-transformations:1.2.1] /Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/jp.wasabeef/glide-transformations/1.2.1/AndroidManifest.xml:8:5-10:41
+	android:targetSdkVersion
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/admin/Downloads/Infodota-master/app/src/main/AndroidManifest.xml

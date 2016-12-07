@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="enemy_team">@color/red</color>
+    <color name="ally_team">@color/green</color>
+</resources>
