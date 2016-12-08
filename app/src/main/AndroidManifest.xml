@@ -27,15 +27,16 @@
             android:launchMode="singleInstance"
             android:screenOrientation="sensorPortrait"
             android:theme="@style/Infodota.Dark">
+        </activity>
+        <activity
+            android:name=".base.activity.ListHolderActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:windowSoftInputMode="adjustNothing">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".base.activity.ListHolderActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:windowSoftInputMode="adjustNothing" />
         <activity
             android:name=".hero.activity.HeroInfoActivity"
             android:configChanges="keyboard|orientation|screenSize" />

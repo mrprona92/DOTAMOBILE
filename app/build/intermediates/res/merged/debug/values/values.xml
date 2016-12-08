@@ -669,7 +669,7 @@
     <string name="any_role">Any role</string>
     <string name="api">YOU_STEAM_API_HERE</string>
     <string name="api_is_down">Dota 2 API is currently down. Matches will not update until service resumes.</string>
-    <string name="app_name">Infodota</string>
+    <string name="app_name">Dota2 Helper</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="armor">Armor</string>
     <string name="assists"><b>Assists:</b></string>

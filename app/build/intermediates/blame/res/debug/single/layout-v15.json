@@ -4,15 +4,7 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-v15/spinner_item.xml"
     },
     {
-        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-v15/spinner_dropdown_item.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/layout-v15/spinner_dropdown_item.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-v15/spinner_dropdown_item.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-v15/spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-v15/spinner_item.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/layout-v15/spinner_item.xml"
     }
 ]

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.badr.infodota.test">
+    package="com.prona.dotainfo.test">
 
     <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="23" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.badr.infodota"
+                     android:targetPackage="com.prona.dotainfo"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.badr.infodota"/>
+                     android:label="Tests for com.prona.dotainfo"/>
 </manifest>

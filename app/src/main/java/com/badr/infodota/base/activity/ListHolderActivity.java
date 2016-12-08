@@ -1,5 +1,7 @@
 package com.badr.infodota.base.activity;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -21,9 +23,15 @@ import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.api.Constants;
+import com.badr.infodota.base.dao.Helper;
 import com.badr.infodota.base.fragment.SearchableFragment;
+import com.badr.infodota.base.service.LocalSpiceService;
+import com.badr.infodota.base.service.LocalUpdateService;
+import com.badr.infodota.base.task.UpdateLoadRequest;
+import com.badr.infodota.base.util.UiUtils;
 import com.badr.infodota.base.util.UpdateUtils;
 import com.badr.infodota.cosmetic.fragment.CosmeticItemsList;
 import com.badr.infodota.counter.fragment.CounterPickFilter;
@@ -35,15 +43,35 @@ import com.badr.infodota.player.fragment.PlayerGroupsHolder;
 import com.badr.infodota.quiz.fragment.QuizTypeSelect;
 import com.badr.infodota.stream.fragment.TwitchHolder;
 import com.badr.infodota.trackdota.fragment.TrackdotaMain;
+import com.octo.android.robospice.SpiceManager;
+import com.octo.android.robospice.persistence.DurationInMillis;
+import com.octo.android.robospice.persistence.exception.SpiceException;
+import com.octo.android.robospice.request.listener.RequestListener;
 
 /**
  * User: ABadretdinov
  * Date: 15.01.14
  * Time: 14:27
  */
-public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener {
+public class ListHolderActivity extends BaseActivity implements SearchView.OnQueryTextListener, AdapterView.OnItemSelectedListener, RequestListener<String> {
     int lastSelected = -1;
+
+    LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
+    private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private boolean doubleBackToExitPressedOnce = false;
+
+
+    @Override
+    protected void onStart() {
+        if (!mSpiceManager.isStarted()) {
+            mSpiceManager.start(getApplicationContext());
+            final int currentVersion = localUpdateService.getVersion(this);
+            if (currentVersion != Helper.DATABASE_VERSION) {
+                mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
+            }
+        }
+        super.onStart();
+    }
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -191,4 +219,26 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public void onNothingSelected(AdapterView<?> parent) {
 
     }
+
+    @Override
+    public void onRequestFailure(SpiceException spiceException) {
+        AlertDialog.Builder dialog = new AlertDialog.Builder(ListHolderActivity.this);
+        dialog.setTitle(getString(R.string.error_during_load));
+        dialog.setMessage(spiceException.getLocalizedMessage());
+        dialog.setPositiveButton(android.R.string.ok, new DialogInterface.OnClickListener() {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                dialogInterface.dismiss();
+                finish();
+            }
+        });
+        dialog.show();
+    }
+
+    @Override
+    public void onRequestSuccess(String s) {
+        localUpdateService.setUpdated(ListHolderActivity.this);
+    }
+
+
 }

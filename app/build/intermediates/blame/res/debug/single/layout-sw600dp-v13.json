@@ -1,19 +1,7 @@
 [
     {
-        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/hero_skill_row.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/layout-sw600dp/hero_skill_row.xml"
-    },
-    {
-        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/main_fragment_holder.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/app/src/main/res/layout-sw600dp/main_fragment_holder.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout-sw600dp/design_layout_snackbar.xml"
-    },
-    {
-        "merged": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout-sw600dp/design_layout_snackbar.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/main_fragment_holder.xml",

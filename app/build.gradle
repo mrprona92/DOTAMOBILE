@@ -5,11 +5,11 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.badr.infodota"
+        applicationId "com.prona.dotainfo"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 777
-        versionName "2.31"
+        versionName "1.0.0"
     }
     buildTypes {
         release {

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Infodota</string>
-
+    <string name="app_name">Dota2 Helper</string>
     <string name="language">english</string>
 
     <string name="heroes_list">Loading heroes list</string>

@@ -4,29 +4,29 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="177686183794295"
-    token="5697221574546996153" >
+    timestamp="273516234778238"
+    token="1158790175797603715" >
 
     <task
         name="javac"
-        duration="6028" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="3426" />
+        duration="0" />
     <task
         name="verifier"
-        duration="671" />
+        duration="0" />
 
     <artifact
-        location="/Users/admin/Downloads/Infodota-master/app/build/outputs/apk/app-debug.apk"
+        location="/Users/DotaInfo/DOTAMOBILE/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="177686183794295" >
+    <build timestamp="273516234778238" >
         <artifact
-            location="/Users/admin/Downloads/Infodota-master/app/build/outputs/apk/app-debug.apk"
+            location="/Users/DotaInfo/DOTAMOBILE/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />
     </build>
 
