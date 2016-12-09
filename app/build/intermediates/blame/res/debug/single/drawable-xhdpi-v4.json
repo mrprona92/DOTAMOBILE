@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/favourite_off.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/favourite_off.png"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_ranking_search_button.xml",
@@ -52,16 +52,16 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_segment_normal_right.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_grey_border.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_common_round_grey_border.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selector_row_menu_item_gray.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/selector_row_menu_item_gray.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selector_row_menu_item_gray.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/selector_row_menu_item_gray.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_grey_border.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_common_round_grey_border.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/play.png",
@@ -144,16 +144,8 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/ic_menu_delete.png"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_menu_calendar.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/ic_menu_calendar.png"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/radiant.png",
@@ -178,10 +170,6 @@
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/initiator.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/initiator.png"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_36dp.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_grey_darkweak.xml",
@@ -256,10 +244,6 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/nuker.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/nuker.png"
     },
@@ -304,16 +288,16 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_white_border.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_common_round_white_border.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_rounded_white_border.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_rounded_white_border.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_white_border.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_common_round_white_border.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/carry.png",
@@ -322,10 +306,6 @@
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_circle_blue.xml",
@@ -408,20 +388,12 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_tab_round_active.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_common_round_white_border_normal.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_common_round_white_border_normal.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/youtube_icon.png",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/youtube_icon.png"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_black_16dp.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_popup_bottom.9.png",
@@ -476,10 +448,6 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-xhdpi/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/bg_segment_normal_left.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/bg_segment_normal_left.xml"
     },
@@ -502,10 +470,6 @@
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/selector_row_menu_item.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-xhdpi/selector_row_menu_item.xml"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",

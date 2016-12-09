@@ -252,12 +252,12 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/list_section.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/loader.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/loader.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/about.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/DOTAMOBILE/appbase/unspecified/res/layout/about.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/loader.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/loader.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
@@ -360,12 +360,12 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/item_recept_row.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/ability_upgrade.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/ability_upgrade.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/ability_upgrade.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/ability_upgrade.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
@@ -594,10 +594,6 @@
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/league_match_results.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout/league_match_results.xml"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout/match_history_holder.xml",
