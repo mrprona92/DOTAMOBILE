@@ -3,7 +3,6 @@
     package="com.badr.infodota"
     android:installLocation="auto">
 
-
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -15,27 +14,21 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/Infodota">
-
         <activity
             android:name=".base.activity.SteamLoginActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/Infodota.Dark" />
-
         <activity
             android:name=".base.activity.LoaderActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:launchMode="singleInstance"
             android:screenOrientation="sensorPortrait"
-            android:theme="@style/Infodota.Dark">
-        </activity>
+            android:theme="@style/Infodota.Dark"></activity>
         <activity
             android:name=".base.activity.ListHolderActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
+            android:theme="@style/splashScreenTheme"
             android:windowSoftInputMode="adjustNothing">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".hero.activity.HeroInfoActivity"
@@ -91,11 +84,9 @@
                 android:name="android.support.UI_OPTIONS"
                 android:value="splitActionBarWhenNarrow" />
         </activity>
-
         <activity
             android:name=".news.activity.NewsItemActivity"
             android:configChanges="keyboard|orientation|screenSize" />
-
         <activity
             android:name=".joindota.activity.LeagueGameActivity"
             android:configChanges="keyboard|orientation|screenSize" />
@@ -104,20 +95,34 @@
             android:configChanges="keyboard|orientation|screenSize" />
         <activity
             android:name=".trackdota.activity.TrackdotaLeagueInfoActivity"
-            android:configChanges="keyboard|orientation|screenSize"/>
+            android:configChanges="keyboard|orientation|screenSize" />
         <activity
             android:name=".base.activity.TI4Activity"
             android:configChanges="keyboard|orientation|screenSize" />
-        <activity android:name="com.util.infoparser.InfoParserActivity"
-            android:configChanges="keyboard|orientation|screenSize"/>
-        <!--<activity
+        <activity
+            android:name="com.util.infoparser.InfoParserActivity"
+            android:configChanges="keyboard|orientation|screenSize" />
+        <!--
+            <activity
                 android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-                android:name="com.google.ads.AdActivity" />-->
-        <service android:name="com.octo.android.robospice.UncachedSpiceService"
-            android:exported="false"/>
+                android:name="com.google.ads.AdActivity" />
+        -->
+        <service
+            android:name="com.octo.android.robospice.UncachedSpiceService"
+            android:exported="false" />
         <service
             android:name=".base.service.LocalSpiceService"
-            android:exported="false"/>
+            android:exported="false" />
+
+        <activity android:name=".base.activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
 
     </application>
+
 </manifest>

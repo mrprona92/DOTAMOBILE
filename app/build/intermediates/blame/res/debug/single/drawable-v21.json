@@ -10,5 +10,9 @@
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-v21/scrollbar_handle_material.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/drawable-v21/scrollbar_handle_material.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v21/abc_edit_text_material.xml"
     }
 ]

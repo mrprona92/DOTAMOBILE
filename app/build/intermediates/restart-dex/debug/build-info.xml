@@ -4,7 +4,7 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="273516234778238"
+    timestamp="371776953606292"
     token="1158790175797603715" >
 
     <task
@@ -24,7 +24,7 @@
         location="/Users/DotaInfo/DOTAMOBILE/app/build/outputs/apk/app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="273516234778238" >
+    <build timestamp="371776953606292" >
         <artifact
             location="/Users/DotaInfo/DOTAMOBILE/app/build/outputs/apk/app-debug.apk"
             type="MAIN" />

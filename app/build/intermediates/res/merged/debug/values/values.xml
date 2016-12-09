@@ -267,17 +267,25 @@
     <color name="accent">@color/indigo</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="account_info_negative">@color/cmn_red_text_view</color>
+    <color name="account_info_positive">@color/cmn_text_black</color>
     <color name="ally_team">@color/green</color>
     <color name="amber">#FFC107</color>
     <color name="amber_dark">#FFA000</color>
     <color name="ancient">#eb4b4b</color>
     <color name="arcana">#ade55c</color>
+    <color name="avatar_border">#fff</color>
     <color name="background">@android:color/black</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
     <color name="barracks">#ff952be9</color>
+    <color name="bg_chart_candle">#f8f8f8</color>
+    <color name="bg_cmn_gray">#F1F2F2</color>
+    <color name="bg_performance_date_time">#F1F2F2</color>
+    <color name="bg_trading_status">#C62827</color>
+    <color name="bg_upper_gap">#F9F9F9</color>
     <color name="blue">#2196F3</color>
     <color name="blue_dark">#1976D2</color>
     <color name="blue_grey">#607D8B</color>
@@ -292,12 +300,73 @@
     <color name="brown_dark">#5D4037</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
+    <color name="buy_color">@color/cmn_red_text_view</color>
     <color name="buyback">#ffe9de23</color>
+    <color name="candle_negative">#c22629</color>
+    <color name="candle_positive">#1d68be</color>
     <color name="cardview_dark_background">#FF202020</color>
     <color name="cardview_light_background">#FFFAFAFA</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
+    <color name="cmn_background">#f1f2f2</color>
+    <color name="cmn_background_divider">#DDD</color>
+    <color name="cmn_bg_dot">#535353</color>
+    <color name="cmn_bg_tutorial">#6C6C6C</color>
+    <color name="cmn_black">#000</color>
+    <color name="cmn_blue">#085EAB</color>
+    <color name="cmn_blue_button">#1d68bf</color>
+    <color name="cmn_blue_text_view">#1665c1</color>
+    <color name="cmn_gray">#757575</color>
+    <color name="cmn_gray_bg">#f7f7f7</color>
+    <color name="cmn_gray_bold">#6b6666</color>
+    <color name="cmn_gray_hint">#b3b3b3</color>
+    <color name="cmn_gray_light">#EFEFEF</color>
+    <color name="cmn_gray_ranking_button">#e7e7e7</color>
+    <color name="cmn_green">#00b277</color>
+    <color name="cmn_grey_border">#a0a0a0</color>
+    <color name="cmn_grey_button">#bcbcbc</color>
+    <color name="cmn_grey_button2">#e6e6e6</color>
+    <color name="cmn_red">#c62828</color>
+    <color name="cmn_red_text_view">#b23222</color>
+    <color name="cmn_register">#d60d1b</color>
+    <color name="cmn_seek_bar_active">#509bd8</color>
+    <color name="cmn_seek_bar_thumbnail_border">#999</color>
+    <color name="cmn_seek_bar_thumbnail_normal">#f1f1f2</color>
+    <color name="cmn_tab_indicator">#e6e765</color>
+    <color name="cmn_text">#4c4c4c</color>
+    <color name="cmn_text_black">#4a4b4c</color>
+    <color name="cmn_text_dark">#807f7f</color>
+    <color name="cmn_text_gray">#888</color>
+    <color name="cmn_text_green">#6ec408</color>
+    <color name="cmn_text_hint">#e6e6e6</color>
+    <color name="cmn_text_hint_white">#D0EDEA</color>
+    <color name="cmn_text_red">#c62827</color>
+    <color name="cmn_transparent">#00000000</color>
+    <color name="cmn_white">#ffffff</color>
+    <color name="cmn_white_gray">#f5f5f5</color>
+    <color name="cmn_white_transparent">#80ffffff</color>
+    <color name="cmn_yellow">#e6af21</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#1d68bf</color>
+    <color name="colorPrimaryDark">#1d68a2</color>
     <color name="common">#b0c3d9</color>
+    <color name="contest_history_title">#99CCFF</color>
+    <color name="copier_item_bg">#fff</color>
+    <color name="copier_manager_copied_color">#fffcd0</color>
+    <color name="copier_mngt_border">#3a3b3b</color>
+    <color name="copier_mngt_copier_status_selected">#656464</color>
+    <color name="copier_mngt_copier_status_unselected">#252222</color>
+    <color name="copier_mngt_disable">#636261</color>
+    <color name="copier_mngt_gray_bg">#3a3b3b</color>
+    <color name="copier_mngt_green">#439893</color>
+    <color name="copier_mngt_item_bg">#303030</color>
+    <color name="copier_mngt_red">#bf555a</color>
+    <color name="copier_mngt_spiner_bg">#1c1c1c</color>
+    <color name="copier_mngt_status_bg">#282929</color>
+    <color name="copier_mngt_tab_selected">#636261</color>
+    <color name="copier_mngt_tab_unselected">#242222</color>
+    <color name="copier_mngt_violet">#6b4e71</color>
+    <color name="copier_mngt_yellow">#c1b65c</color>
     <color name="cyan">#00BCD4</color>
     <color name="cyan_dark">#0097A7</color>
     <color name="darker_gray">#aaa</color>
@@ -314,6 +383,8 @@
     <color name="design_fab_stroke_top_outer_color">#2EFFFFFF</color>
     <color name="design_snackbar_background_color">#323232</color>
     <color name="design_textinput_error_color">#FFDD2C00</color>
+    <color name="dialog_detail_bg">#2d2a2a</color>
+    <color name="dialog_policy_box_bg">#f3b757</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -358,11 +429,25 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
+    <color name="member_change_bg">#3D3D3D</color>
+    <color name="member_change_drag_highlight">#FFFF00</color>
+    <color name="member_change_user_item_bg">#303030</color>
+    <color name="member_mngt_bg_unit">#1D1E19</color>
+    <color name="member_mngt_bg_unit_copying">#762C2B</color>
+    <color name="menu_item_text">#888888</color>
     <color name="mythical">#8847ff</color>
     <color name="orange">#FF9800</color>
     <color name="orange_dark">#F57C00</color>
+    <color name="order_history_bg_transparent">#60FFFFFF</color>
+    <color name="order_history_buy">#f00</color>
+    <color name="order_history_sell">#55b4c0</color>
     <color name="pink">#E91E64</color>
     <color name="pink_dark">#C2185B</color>
+    <color name="pl_negative_color">@color/cmn_red_text_view</color>
+    <color name="pl_positive_color">@color/cmn_text_black</color>
+    <color name="pl_positive_trade_setting_color">@color/cmn_blue_text_view</color>
+    <color name="position_order_buy">#f00</color>
+    <color name="position_order_sell">#55b4c0</color>
     <color name="primary">@color/red</color>
     <color name="primaryTextColor">@color/accent</color>
     <color name="primary_dark">@color/red_dark</color>
@@ -400,10 +485,35 @@
     <color name="radiant_dark">#ff003a11</color>
     <color name="radiant_transparent">#9b00a527</color>
     <color name="radiant_transparent_dead">#c400310c</color>
+    <color name="ranking_bgr_ranking_line_separator">#6d6b6b</color>
+    <color name="ranking_bgr_row">#151515</color>
+    <color name="ranking_bgr_tab_selected">#636361</color>
+    <color name="ranking_bgr_tab_unselected">#242222</color>
+    <color name="ranking_bgr_view_ahead_avatar_1">#8CB06A</color>
+    <color name="ranking_bgr_view_ahead_avatar_11">#78B3BB</color>
+    <color name="ranking_bgr_view_ahead_avatar_12">#8CB06A</color>
+    <color name="ranking_bgr_view_ahead_avatar_13">#843996</color>
+    <color name="ranking_bgr_view_ahead_avatar_14">#D39C36</color>
+    <color name="ranking_bgr_view_ahead_avatar_2">#D39C36</color>
+    <color name="ranking_bgr_view_ahead_avatar_3">#843996</color>
+    <color name="ranking_bgr_view_ahead_avatar_4">#78B3BB</color>
+    <color name="ranking_row_bgr_normal">#242222</color>
+    <color name="ranking_row_bgr_recommend">#151515</color>
+    <color name="ranking_row_bgr_tag_first">#58B0BC</color>
+    <color name="ranking_row_bgr_tag_normal">#636361</color>
+    <color name="ranking_row_bgr_tag_recommend">#000000</color>
+    <color name="ranking_row_bgr_tag_second">#429897</color>
+    <color name="ranking_row_bgr_tag_third">#325267</color>
     <color name="rapier">#ffe9009a</color>
     <color name="rare">#4b69ff</color>
+    <color name="rate_decrease_color">@color/cmn_red_text_view</color>
+    <color name="rate_increase_color">@color/cmn_blue</color>
+    <color name="rate_info_bg_bar">#292a2b</color>
+    <color name="rate_info_bg_bar_middle">#3b3b3b</color>
+    <color name="rate_info_bg_transparent">#60FFFFFF</color>
     <color name="red">#da4336</color>
     <color name="red_dark">#b93221</color>
+    <color name="rippleColor">#ffff</color>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
     <color name="roshan">#ffe97000</color>
@@ -411,14 +521,55 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
+    <color name="sell_color">@color/cmn_blue_text_view</color>
+    <color name="setting_bg">#3b3b3b</color>
+    <color name="setting_check_bg">#201e1e</color>
+    <color name="setting_header_bg">#555555</color>
+    <color name="setting_red">#cc0000</color>
+    <color name="setting_section_bg_1">#EFEFEF</color>
+    <color name="solid_divider">#999</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="tabbar_active">#FFD14337</color>
+    <color name="tabbar_normal">#e6e6e6</color>
+    <color name="tabbar_text_normal">#4c4c4c</color>
     <color name="teal">#009688</color>
     <color name="teal_dark">#00796B</color>
+    <color name="text_box_right">#E6AF21</color>
     <color name="tower">#ff005de9</color>
+    <color name="trade_contest_background">#3A3B3B</color>
+    <color name="trade_setting_action_start_bgr">#AF5659</color>
+    <color name="trade_setting_action_stop_bgr">#45436D</color>
+    <color name="trade_setting_background">#2C2A2D</color>
+    <color name="trade_setting_users_following_bgr">#762C2B</color>
+    <color name="trade_setting_view_row_two_column_split">#6d6b6b</color>
+    <color name="trade_status_bg_transparent">#60FFFFFF</color>
+    <color name="trade_status_bgr_1">#3D3D3D</color>
+    <color name="trade_status_bgr_2">#2D2D2D</color>
+    <color name="trade_status_button_condition_bgr">#AF5659</color>
+    <color name="trade_status_button_condition_txt">#FFFFFF</color>
+    <color name="trade_status_button_setting_bgr">#8BAF6D</color>
+    <color name="trade_status_button_setting_txt">#FFFFFF</color>
+    <color name="trade_status_condition_bgr">#87B16C</color>
+    <color name="trade_status_estimated_pl_lbl">#E3D86C</color>
+    <color name="trade_status_estimated_pl_txt">#6FB2BF</color>
+    <color name="trade_status_estimated_profit">#6FB2BF</color>
+    <color name="trade_status_simulating_bgr">#AF5659</color>
+    <color name="trade_status_symbol_unit_txt">#E3D86C</color>
+    <color name="trade_status_title_bgr">#2C2A2D</color>
+    <color name="trade_status_total_investment">#FFFFFF</color>
+    <color name="trade_status_usr_bgr">#30556E</color>
+    <color name="trade_type_blue">#55b4be</color>
+    <color name="trade_type_blue_title">#558ed5</color>
+    <color name="trade_type_blue_title_number">#0070c0</color>
+    <color name="trade_type_red">#ff0000</color>
+    <color name="transfer_history_bg_dialog">#797979</color>
+    <color name="transfer_money_bg_transparent">#60FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
     <color name="uncommon">#5e98d9</color>
+    <color name="user_detail_bg">#3B3B3B</color>
     <color name="xp">#ff00cde9</color>
     <color name="yellow">#FFEB3B</color>
     <color name="yellow_dark">#FBC02D</color>
@@ -448,6 +599,7 @@
     <declare-styleable name="LinearLayoutCompat"><attr name="android:orientation"/><attr name="android:gravity"/><attr name="android:baselineAligned"/><attr name="android:baselineAlignedChildIndex"/><attr name="android:weightSum"/><attr format="boolean" name="measureWithLargestChild"/><attr name="divider"/><attr name="showDividers"><flag name="none" value="0"/><flag name="beginning" value="1"/><flag name="middle" value="2"/><flag name="end" value="4"/></attr><attr format="dimension" name="dividerPadding"/></declare-styleable>
     <declare-styleable name="LinearLayoutCompat_Layout"><attr name="android:layout_width"/><attr name="android:layout_height"/><attr name="android:layout_weight"/><attr name="android:layout_gravity"/></declare-styleable>
     <declare-styleable name="ListPopupWindow"><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/></declare-styleable>
+    <declare-styleable name="MaterialRippleLayout"><attr format="color" localization="suggested" name="mrl_rippleColor"/><attr format="dimension" localization="suggested" name="mrl_rippleDimension"/><attr format="boolean" localization="suggested" name="mrl_rippleOverlay"/><attr format="float" localization="suggested" name="mrl_rippleAlpha"/><attr format="integer" localization="suggested" name="mrl_rippleDuration"/><attr format="integer" localization="suggested" name="mrl_rippleFadeDuration"/><attr format="boolean" localization="suggested" name="mrl_rippleHover"/><attr format="color" localization="suggested" name="mrl_rippleBackground"/><attr format="boolean" localization="suggested" name="mrl_rippleDelayClick"/><attr format="boolean" localization="suggested" name="mrl_ripplePersistent"/><attr format="boolean" localization="suggested" name="mrl_rippleInAdapter"/><attr format="dimension" localization="suggested" name="mrl_rippleRoundedCorners"/></declare-styleable>
     <declare-styleable name="MenuGroup"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:checkableBehavior"/><attr name="android:visible"/><attr name="android:enabled"/></declare-styleable>
     <declare-styleable name="MenuItem"><attr name="android:id"/><attr name="android:menuCategory"/><attr name="android:orderInCategory"/><attr name="android:title"/><attr name="android:titleCondensed"/><attr name="android:icon"/><attr name="android:alphabeticShortcut"/><attr name="android:numericShortcut"/><attr name="android:checkable"/><attr name="android:checked"/><attr name="android:visible"/><attr name="android:enabled"/><attr name="android:onClick"/><attr name="showAsAction"><flag name="never" value="0"/><flag name="ifRoom" value="1"/><flag name="always" value="2"/><flag name="withText" value="4"/><flag name="collapseActionView" value="8"/></attr><attr format="reference" name="actionLayout"/><attr format="string" name="actionViewClass"/><attr format="string" name="actionProviderClass"/></declare-styleable>
     <declare-styleable name="MenuView"><attr name="android:itemTextAppearance"/><attr name="android:horizontalDivider"/><attr name="android:verticalDivider"/><attr name="android:headerBackground"/><attr name="android:itemBackground"/><attr name="android:windowAnimationStyle"/><attr name="android:itemIconDisabledAlpha"/><attr format="boolean" name="preserveIconSpacing"/></declare-styleable>
@@ -456,6 +608,14 @@
     <declare-styleable name="PopupWindowBackgroundState"><attr format="boolean" name="state_above_anchor"/></declare-styleable>
     <declare-styleable name="ProgressWheel"><attr format="boolean" name="matProg_progressIndeterminate"/><attr format="color" name="matProg_barColor"/><attr format="color" name="matProg_rimColor"/><attr format="dimension" name="matProg_rimWidth"/><attr format="float" name="matProg_spinSpeed"/><attr format="integer" name="matProg_barSpinCycleTime"/><attr format="dimension" name="matProg_circleRadius"/><attr format="boolean" name="matProg_fillRadius"/><attr format="dimension" name="matProg_barWidth"/><attr format="boolean" name="matProg_linearProgress"/></declare-styleable>
     <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <declare-styleable name="RippleView"><attr format="integer" name="rv_alpha"/><attr format="integer" name="rv_framerate"/><attr format="integer" name="rv_rippleDuration"/><attr format="integer" name="rv_zoomDuration"/><attr format="color" name="rv_color"/><attr format="boolean" name="rv_centered"/><attr format="enum" name="rv_type"><enum name="simpleRipple" value="0"/><enum name="doubleRipple" value="1"/><enum name="rectangle" value="2"/></attr><attr format="dimension" name="rv_ripplePadding"/><attr format="boolean" name="rv_zoom"/><attr format="float" name="rv_zoomScale"/></declare-styleable>
+    <declare-styleable name="RoundedImageView"><attr format="boolean" name="border"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="integer" name="border_alpha"/><attr format="dimension" name="image_margin_left"/><attr format="boolean" name="shadow"/></declare-styleable>
+    <declare-styleable name="SCRangeSeekBar"><attr format="integer|float" name="absoluteMinValue"/><attr format="integer|float" name="absoluteMaxValue"/><attr format="boolean" name="singleThumb"/><attr format="boolean" name="showLabels"/><attr format="boolean" name="alwaysActive"/><attr format="boolean" name="valuesAboveThumbs"/><attr format="dimension" name="internalPadding"/><attr format="dimension" name="barHeight"/><attr format="color" name="defaultColor"/><attr format="color" name="activeColor"/><attr format="color" name="textAboveThumbsColor"/><attr format="reference" name="thumbNormal"/><attr format="reference" name="thumbPressed"/><attr format="reference" name="thumbDisabled"/><attr format="boolean" name="thumbShadow"/><attr format="color" name="thumbShadowColor"/><attr format="dimension" name="thumbShadowXOffset"/><attr format="dimension" name="thumbShadowYOffset"/><attr format="dimension" name="thumbShadowBlur"/><attr format="boolean" name="activateOnDefaultValues"/></declare-styleable>
+    <declare-styleable name="SCRangeSeekBarRow"><attr format="integer" name="minValue"/><attr format="integer" name="maxValue"/><attr format="string" name="titleText"/><attr format="reference" name="possibleMinValues"/><attr format="reference" name="possibleMaxValues"/></declare-styleable>
+    <declare-styleable name="SCSegment"><attr format="string" name="textOn"/><attr format="string" name="textOff"/><attr format="dimension" name="segmentHeight"/><attr format="dimension" name="segmentTextSize"/><attr format="boolean" name="isSelected"/></declare-styleable>
+    <declare-styleable name="SCSettingRow"><attr format="color" name="textColor"/><attr format="string" name="text"/><attr format="boolean" name="isChecked"/><attr format="dimension" name="textSize"/></declare-styleable>
+    <declare-styleable name="SCSuffixTextView"><attr format="float" name="ratio"/><attr format="integer" name="suffix_length"/></declare-styleable>
+    <declare-styleable name="SCTabLayout"><attr format="dimension" name="tabMarginLeft"/><attr format="dimension" name="tabMarginRight"/><attr format="dimension" name="tabSpacing"/><attr format="dimension" name="tabHeight"/><attr format="dimension" name="tabIndicatorHeight"/><attr format="color" name="tabTextColor"/><attr format="color" name="tabTextActiveColor"/><attr format="color" name="tabActiveColor"/><attr format="color" name="tabNormalColor"/><attr format="dimension" name="tabTextSize"/><attr format="integer" name="tabSelectIndex"/><attr format="reference" name="tabItems"/><attr format="boolean" name="hasBadge"/></declare-styleable>
     <declare-styleable name="ScrimInsetsFrameLayout"><attr format="color|reference" name="insetForeground"/></declare-styleable>
     <declare-styleable name="ScrollingViewBehavior_Params"><attr format="dimension" name="behavior_overlapTop"/></declare-styleable>
     <declare-styleable name="SearchView"><attr format="reference" name="layout"/><attr format="boolean" name="iconifiedByDefault"/><attr name="android:maxWidth"/><attr format="string" name="queryHint"/><attr format="string" name="defaultQueryHint"/><attr name="android:imeOptions"/><attr name="android:inputType"/><attr format="reference" name="closeIcon"/><attr format="reference" name="goIcon"/><attr format="reference" name="searchIcon"/><attr format="reference" name="searchHintIcon"/><attr format="reference" name="voiceIcon"/><attr format="reference" name="commitIcon"/><attr format="reference" name="suggestionRowLayout"/><attr format="reference" name="queryBackground"/><attr format="reference" name="submitBackground"/><attr name="android:focusable"/></declare-styleable>
@@ -530,6 +690,24 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="account_description_height">60dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="avatar_130px">32.5dp</dimen>
+    <dimen name="avatar_normal">100dp</dimen>
+    <dimen name="avatar_normal_container">110dp</dimen>
+    <dimen name="avatar_small">80dp</dimen>
+    <dimen name="avatar_small_container">85dp</dimen>
+    <dimen name="avatar_smaller">40dp</dimen>
+    <dimen name="avatar_smallest">60dp</dimen>
+    <dimen name="btn_height">45dp</dimen>
+    <dimen name="btn_height_bigger">50dp</dimen>
+    <dimen name="btn_height_medium">40dp</dimen>
+    <dimen name="btn_height_small">35dp</dimen>
+    <dimen name="btn_height_smaller">30dp</dimen>
+    <dimen name="btn_height_smallest">20dp</dimen>
+    <dimen name="btn_height_trade">25dp</dimen>
+    <dimen name="btn_square">45dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -591,20 +769,53 @@
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
+    <dimen name="ic_red_like_yellow_sp">15dp</dimen>
+    <dimen name="item_menu_height">60dp</dimen>
     <dimen name="item_receipt_textSize">10sp</dimen>
     <dimen name="item_row_image_size">60dp</dimen>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="lbl_width">55dp</dimen>
+    <dimen name="login_logo_horizontal_margin">90dp</dimen>
+    <dimen name="login_logo_vertical_margin">50dp</dimen>
     <dimen name="match_player_summary_height">39dp</dimen>
     <dimen name="match_player_summary_width">52dp</dimen>
+    <dimen name="menu_top_header_height">140dp</dimen>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
+    <dimen name="padding_big">20dp</dimen>
+    <dimen name="padding_bigger">25dp</dimen>
+    <dimen name="padding_huge">30dp</dimen>
+    <dimen name="padding_medium">15dp</dimen>
+    <dimen name="padding_min">1px</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="padding_normal_bigger">11dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_small_bigger">7dp</dimen>
+    <dimen name="padding_smaller">3dp</dimen>
     <dimen name="skill_role_bkg_size">36dp</dimen>
     <dimen name="skill_role_holder_height">36dp</dimen>
     <dimen name="skill_role_holder_margin_bottom">10dp</dimen>
     <dimen name="skill_role_holder_padding">1dp</dimen>
     <dimen name="skill_role_size">34dp</dimen>
     <dimen name="skillbuild_image_size">60dp</dimen>
+    <dimen name="spinner_height">60dp</dimen>
+    <dimen name="tabbar_height">45dp</dimen>
+    <dimen name="text_event_smaller">8sp</dimen>
+    <dimen name="text_extra">38sp</dimen>
+    <dimen name="text_header">20sp</dimen>
+    <dimen name="text_huge">28sp</dimen>
+    <dimen name="text_large">22sp</dimen>
+    <dimen name="text_larger">25sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="text_small">12sp</dimen>
+    <dimen name="text_smaller">11sp</dimen>
+    <dimen name="text_smallest">9sp</dimen>
+    <dimen name="text_tabbar">10sp</dimen>
+    <dimen name="text_title">16sp</dimen>
+    <dimen name="text_xxxl">50sp</dimen>
+    <dimen name="toolbar_bottom_height">55dp</dimen>
     <dimen name="view_padding">8dp</dimen>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -783,6 +994,7 @@
     <string name="guide_next">Next</string>
     <string name="guide_saved">Guide saved!</string>
     <string name="guides">GUIDES</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hero_damage"><b>Hero damage:</b></string>
     <string name="hero_damage_">Damage: {0}</string>
     <string name="hero_header">Hero</string>
@@ -878,6 +1090,12 @@
     <string name="matches_played_header">Matches Played</string>
     <string name="mc">Mana cost:</string>
     <string name="melee">{0} (Melee)</string>
+    <string name="menu_about">ABOUT</string>
+    <string name="menu_exit">QUIT APP</string>
+    <string name="menu_items_game">ITEMS</string>
+    <string name="menu_news_dota">NEWS</string>
+    <string name="menu_recent_match">RECENT MATCH RESULT</string>
+    <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
     <string name="metric">Stats type:</string>
     <string name="minutes_">{0} minutes</string>
     <string name="missile_speed">Missile Speed</string>
@@ -962,6 +1180,10 @@
     <string name="streams_">{0} streams</string>
     <string name="sure_delete_Guide">Delete guide?</string>
     <string name="sure_delete_part">Are You sure, You wanna delete this part?</string>
+    <string name="tab_counter_pick">Counter Pick</string>
+    <string name="tab_hero">Hero</string>
+    <string name="tab_menu">Menu</string>
+    <string name="tab_quiz">Quiz</string>
     <string name="team_wins_">{0} victory!</string>
     <string name="time">Time:</string>
     <string name="tooltips">TOOLTIPS</string>
@@ -1926,6 +2148,7 @@
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
+    <style name="Button"/>
     <style name="CardView">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
         <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
@@ -1939,6 +2162,26 @@
     </style>
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style>
+    <style name="DialogThemeFullScreen" parent="android:Theme.Dialog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+    <style name="EditText.Common" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:layout_marginBottom">@dimen/padding_small</item>
+        <item name="android:padding">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:background">@drawable/bg_common_round_white_border</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:textColorHint">@color/cmn_text_dark</item>
+        <item name="android:singleLine">true</item>
     </style>
     <style name="Infodota" parent="Infodota.Base">
         <item name="android:overScrollMode">never</item>
@@ -1967,6 +2210,115 @@
 
         <!-- Support library compatibility -->
         <item name="windowActionBarOverlay">true</item>
+    </style>
+    <style name="Layout"/>
+    <style name="Layout.FillHeight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Layout.FillHeight.Center" parent="Layout.FillHeight">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.FillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Layout.FillWidth.BiggerWeight" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1.4</item>
+    </style>
+    <style name="Layout.FillWidth.Center" parent="Layout.FillWidth">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.FillWidth.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="Layout.FillWidth.Weight" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="Layout.FillWidth.Weight.Center" parent="Layout.FillWidth">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.FillWidth.Weight.Vertical" parent="Layout.FillWidth.Weight">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="Layout.FillWidth.Weight.Vertical.Center" parent="Layout.FillWidth.Weight.Vertical">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.FillWidthHeight">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Layout.FillWidthHeight.BiggerWeight.VerticalCenter" parent="Layout.FillWidthHeight">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_weight">1.3</item>
+    </style>
+    <style name="Layout.FillWidthHeight.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="Layout.FillWidthHeight.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="Layout.FillWidthHeight.Weight.Center">
+        <item name="android:gravity">center</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+    <style name="Layout.FillWidthHeight.Weight.HorizontalCenter" parent="Layout.FillWidthHeight.Weight">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.FillWidthHeight.Weight.VerticalCenter" parent="Layout.FillWidthHeight.Weight">
+        <item name="android:orientation">vertical</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Layout.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="Layout.Weight.Height">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+    <style name="Layout.Weight.HeightFillWidth">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">0dp</item>
+    </style>
+    <style name="Layout.Weight.Width">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Layout.Weight.WidthFillHeight">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
+    <style name="Layout.WrapWidthHeight">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Layout.WrapWidthHeight.Vertical">
+        <item name="android:orientation">vertical</item>
+    </style>
+    <style name="LayoutFillWidthHW">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">4dp</item>
+    </style>
+    <style name="LayoutFillWidthHWNoMargin">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_margin">0dp</item>
+    </style>
+    <style name="ListView" parent="Layout.FillWidth">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:cacheColorHint">@android:color/transparent</item>
+        <!--<item name="android:mViewDivider">@android:color/cmn_transparent</item>-->
+    </style>
+    <style name="MenuHeaderText" parent="Layout.FillHeight">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cmn_white</item>
     </style>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -2066,6 +2418,39 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Spinner"/>
+    <style name="RadioWrapper">
+        <item name="android:layout_width">40dp</item>
+        <item name="android:layout_height">40dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="RipperCommon" parent="Layout.WrapWidthHeight">
+        <item name="mrl_rippleColor">@color/cmn_gray</item>
+        <item name="mrl_rippleAlpha">0.3</item>small
+        <item name="mrl_rippleHover">true</item>
+    </style>
+    <style name="RowAccount" parent="Layout.FillWidth">
+        <item name="android:paddingLeft">@dimen/padding_normal</item>
+        <item name="android:paddingRight">@dimen/padding_normal</item>
+        <item name="android:paddingTop">@dimen/padding_medium</item>
+
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="RowAccount.Grey" parent="RowAccount">
+        <item name="android:background">@color/cmn_gray_bg</item>
+    </style>
+    <style name="RowAccount.Transparent" parent="RowAccount">
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="RowIndividual2.Layout.Right" parent="Layout.FillHeight">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">4</item>
+    </style>
+    <style name="RowIndividual2.Text.Left" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center|left</item>
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
@@ -2107,6 +2492,386 @@
     </style>
     <style name="RtlOverlay.Widget.AppCompat.SearchView.MagIcon" parent="android:Widget">
         <item name="android:layout_marginLeft">@dimen/abc_dropdownitem_text_padding_left</item>
+    </style>
+    <style name="SettingSection" parent="Layout.FillWidth">
+        <item name="text">@string/app_name</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">@dimen/padding_normal</item>
+        <item name="android:padding">@dimen/padding_normal</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:background">@color/cmn_transparent</item>
+    </style>
+    <style name="SpinnerCommon">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_medium</item>
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="SpinnerProfile">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_medium</item>
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:layout_marginTop">@dimen/padding_small</item>
+        <item name="android:background">@drawable/spinner_profile_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="SpinnerRanking">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/btn_height_small</item>
+        <item name="android:overlapAnchor">false</item>
+        <item name="android:layout_marginTop">@dimen/padding_smaller</item>
+        <item name="android:background">@drawable/spinner_background</item>
+        <item name="android:spinnerMode">dropdown</item>
+    </style>
+    <style name="Text">
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="Text.Badge.Active" parent="Text.Normal.Dark">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/bg_badge_circle_active</item>
+    </style>
+    <style name="Text.Badge.Normal" parent="Text.Badge.Active">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:background">@drawable/bg_badge_circle_normal</item>
+    </style>
+    <style name="Text.Box.Bold.Right" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Text.Box.Normal.Grey" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/cmn_gray</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Text.Box.Normal.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Text.Box.Small.Dark.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Text.Box.Small.Grey.Left" parent="Layout.WrapWidthHeight">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:textColor">@color/cmn_gray</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+    <style name="Text.Content" parent="Layout.FillWidth">
+        <item name="android:textSize">15sp</item>
+    </style>
+    <style name="Text.Content.Black">
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+    <style name="Text.Content.DarkerGray">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+    <style name="Text.Content.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Text.FillWidth">
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    <style name="Text.FillWidth.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.FillWidth.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="Text.Header.Upper" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:layout_marginTop">@dimen/padding_medium</item>
+        <item name="android:layout_marginBottom">3dp</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Header.Upper.white">
+        <item name="android:textColor">@color/cmn_white</item>
+        <item name="android:alpha">65</item>
+    </style>
+    <style name="Text.Normal.Black.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Normal.Blue.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Normal.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Dark.Center" parent="Text.Normal.Dark">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Normal.Dark.Single" parent="Text.Normal.Dark">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Dark.TradeSetting" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Gray.Single" parent="Text.Normal.Grey">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Grey.Center" parent="Text.Normal.Grey">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Normal.Grey.Left" parent="Text.Normal.Grey">
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="Text.Normal.Grey.Smallest.Bottom" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Normal.Red.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Shadow" parent="Layout.FillWidth">
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shadowColor">#7F000000</item>
+        <item name="android:shadowDx">-1</item>
+        <item name="android:shadowDy">-1</item>
+        <item name="android:shadowRadius">1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Small.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Small.Dark.Center" parent="Text.Small.Dark">
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Small.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Small.Grey.Center" parent="Text.Small.Grey">
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Small.Red.Center" parent="Layout.FillWidth">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_red</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <style name="Text.Smaller.Blue" parent="Text.Smaller.Dark">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+    <style name="Text.Smaller.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Smaller.Gray" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Smaller.Gray.TradeCopier" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_small</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Smaller.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smaller</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Smallest.Blue" parent="Text.Smallest.Dark">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+    <style name="Text.Smallest.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Smallest.Grey" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:textColor">@color/cmn_text_gray</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title" parent="Layout.FillWidth">
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title.Black">
+        <item name="android:textColor">@color/cmn_text_black</item>
+    </style>
+    <style name="Text.Title.Black.Weight">
+        <item name="android:layout_weight">1</item>
+    </style>
+    <style name="Text.Title.Black.Weight.Center">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.Title.Center" parent="Text.Title.Black">
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+    <style name="Text.Title.Dark" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_title</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title.Dark.Single" parent="Text.Title.Dark">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title.Dark.TradeSetting" parent="Layout.FillWidth.Vertical">
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:textColor">@color/cmn_text</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:ellipsize">marquee</item>
+    </style>
+    <style name="Text.Title.DarkerGray">
+        <item name="android:textColor">@android:color/darker_gray</item>
+    </style>
+    <style name="Text.Title.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="Text.WrapWidth">
+        <item name="android:layout_width">wrap_content</item>
+    </style>
+    <style name="Text.WrapWidth.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Text.WrapWidth.Italic">
+        <item name="android:textStyle">italic</item>
+    </style>
+    <style name="TextAccount.Bold" parent="Text.Normal.Dark">
+        <item name="textColor">@color/cmn_text</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">8</item>
+        <item name="android:gravity">right|center_vertical</item>
+        <item name="android:paddingRight">@dimen/padding_min</item>
+        <item name="android:textSize">@dimen/text_large</item>
+    </style>
+    <style name="TextAccount.Bold.Blue" parent="TextAccount.Bold">
+        <item name="android:textColor">@color/cmn_blue_text_view</item>
+    </style>
+    <style name="TextAccount.Bold.Red" parent="TextAccount.Bold">
+        <item name="android:textColor">@color/cmn_red_text_view</item>
+    </style>
+    <style name="TextAccount.Bold.Right">
+        <item name="ratio">0.5</item>
+        <item name="suffix_length">1</item>
+    </style>
+    <style name="TextAccount.Normal" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">10</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:paddingLeft">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_title</item>
+    </style>
+    <style name="TextAccount.Small" parent="Text.Normal.Dark">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:textSize">@dimen/text_smallest</item>
+        <item name="android:paddingRight">@dimen/padding_small</item>
+        <item name="android:paddingBottom">@dimen/padding_smaller</item>
+        <item name="android:gravity">bottom</item>
+    </style>
+    <style name="TextAccount.Small.Blue" parent="TextAccount.Small">
+        <item name="android:textColor">@color/cmn_blue</item>
+    </style>
+    <style name="TextAccount.Small.Red" parent="TextAccount.Small">
+        <item name="android:textColor">@color/cmn_red_text_view</item>
     </style>
     <style name="TextAppearance.AppCompat" parent="Base.TextAppearance.AppCompat"/>
     <style name="TextAppearance.AppCompat.Body1" parent="Base.TextAppearance.AppCompat.Body1"/>
@@ -2193,6 +2958,15 @@
     </style>
     <style name="TextAppearance.Widget.AppCompat.Toolbar.Title" parent="Base.TextAppearance.Widget.AppCompat.Toolbar.Title">
     </style>
+    <style name="TextView.Tabbar" parent="Layout.FillWidth">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/ranking_bgr_row</item>
+        <item name="android:drawablePadding">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_tabbar</item>
+    </style>
     <style name="Theme.AppCompat" parent="Base.Theme.AppCompat"/>
     <style name="Theme.AppCompat.CompactMenu" parent="Base.Theme.AppCompat.CompactMenu"/>
     <style name="Theme.AppCompat.Dialog" parent="Base.Theme.AppCompat.Dialog"/>
@@ -2220,6 +2994,10 @@
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
     <style name="ThemeOverlay.AppCompat.Dark.ActionBar" parent="Base.ThemeOverlay.AppCompat.Dark.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
+    <style name="ToggleButton" parent="Layout.WrapWidthHeight">
+        <item name="android:textOn"/>
+        <item name="android:textOff"/>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">
@@ -2357,5 +3135,66 @@
     <style name="Widget.Design.TextInputLayout" parent="android:Widget">
         <item name="hintTextAppearance">@style/TextAppearance.Design.Hint</item>
         <item name="errorTextAppearance">@style/TextAppearance.Design.Error</item>
+    </style>
+    <style name="captionOnly">
+        <item name="android:background">@null</item>
+        <item name="android:clickable">false</item>
+        <item name="android:focusable">false</item>
+        <item name="android:minHeight">0dp</item>
+        <item name="android:minWidth">0dp</item>
+    </style>
+    <style name="divider_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+    <style name="divider_margin_left_right" parent="divider_common">
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:layout_marginRight">4dp</item>
+        <item name="android:layout_marginLeft">4dp</item>
+    </style>
+    <style name="divider_menu" parent="divider_common">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">1px</item>
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+        <item name="android:background">@color/cmn_gray</item>
+    </style>
+    <style name="divider_no_margin" parent="divider_common">
+        <item name="android:layout_marginBottom">0dp</item>
+        <item name="android:layout_marginTop">0dp</item>
+    </style>
+    <style name="divider_vertical">
+        <item name="android:layout_width">0.5px</item>
+        <item name="android:layout_marginTop">@dimen/padding_normal</item>
+        <item name="android:layout_marginBottom">@dimen/padding_normal</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+    <style name="divider_vertical_nomargin">
+        <item name="android:layout_width">0.5px</item>
+        <item name="android:layout_height">15dp</item>
+        <item name="android:background">@color/cmn_background_divider</item>
+    </style>
+    <style name="myToolBar" parent="Widget.AppCompat.Toolbar">
+        <item name="android:layout_height">45dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+    </style>
+    <style name="progress_common">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:indeterminate">false</item>
+        <item name="android:visibility">gone</item>
+        <!--<item name="style">?android:attr/progressBarStyle</item>-->
+    </style>
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
     </style>
 </resources>

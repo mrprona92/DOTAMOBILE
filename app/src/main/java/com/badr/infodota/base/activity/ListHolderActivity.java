@@ -13,6 +13,7 @@ import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.ActionMenuPresenter;
 import android.support.v7.widget.SearchView;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -21,13 +22,16 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.api.Constants;
+import com.badr.infodota.base.configs.ScreenIDs;
 import com.badr.infodota.base.dao.Helper;
 import com.badr.infodota.base.fragment.SearchableFragment;
+import com.badr.infodota.base.menu.fragment.MenuFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
 import com.badr.infodota.base.service.LocalUpdateService;
 import com.badr.infodota.base.task.UpdateLoadRequest;
@@ -48,6 +52,12 @@ import com.octo.android.robospice.persistence.DurationInMillis;
 import com.octo.android.robospice.persistence.exception.SpiceException;
 import com.octo.android.robospice.request.listener.RequestListener;
 
+
+import butterknife.BindColor;
+import butterknife.BindView;
+import butterknife.ButterKnife;
+import butterknife.OnClick;
+
 /**
  * User: ABadretdinov
  * Date: 15.01.14
@@ -59,10 +69,47 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     LocalUpdateService localUpdateService = BeanContainer.getInstance().getLocalUpdateService();
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private boolean doubleBackToExitPressedOnce = false;
+    protected final String TAG = getClass().getSimpleName();
+
+    @BindView(R.id.tabHero)
+    LinearLayout tabHero;
+
+    @BindView(R.id.tabConterPick)
+    LinearLayout tabCounterPick;
+
+    @BindView(R.id.tabQuiz)
+    LinearLayout tabQuiz;
+
+    @BindView(R.id.tabMenu)
+    LinearLayout tabMenu;
+
+    @BindView(R.id.lblTabHero)
+    TextView lblTabHero;
+
+    @BindView(R.id.lblTabCounterPick)
+    TextView lblTabCounter;
+
+    @BindView(R.id.lblTabQuiz)
+    TextView lblTabQuiz;
+
+    @BindView(R.id.lblTabMenu)
+    TextView lblTabMenu;
+
+    private ScreenIDs.ScreenTab mCurrentTab;
+
+
+    @BindColor(R.color.cmn_white)
+    int tabHighLightTextColor;
+
+
+    @BindColor(R.color.ranking_bgr_row)
+    int tabNormalTextColor;
 
 
     @Override
     protected void onStart() {
+        ButterKnife.bind(this);
+
         if (!mSpiceManager.isStarted()) {
             mSpiceManager.start(getApplicationContext());
             final int currentVersion = localUpdateService.getVersion(this);
@@ -75,10 +122,14 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
+
+        setTheme(R.style.Infodota);
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_fragment_holder);
 
         mActionMenuView.setPresenter(new ActionMenuPresenter(this));
+
+        MenuFragment.updateActivity(this);
 
         ActionBar bar = getSupportActionBar();
         bar.setDisplayShowTitleEnabled(false);
@@ -101,12 +152,20 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu items for use in the action bar
+
+        if(mFragmentDetails instanceof HeroesList){
+            Log.d("BINH", "onCreateOptionsMenu() called with: " + "menu = [" + menu + "]");
+        }
+
         getMenuInflater().inflate(R.menu.search, menu);
 
         MenuItem searchItem = menu.findItem(R.id.action_search);
         SearchView searchView = (SearchView) MenuItemCompat.getActionView(searchItem);
         searchView.setQueryHint(getString(android.R.string.search_go));
         searchView.setOnQueryTextListener(this);
+
+
+
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -166,49 +225,51 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         ft.commitAllowingStateLoss();
     }
 
+    private Fragment mFragmentDetails;
+
+
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
 
         if (lastSelected != position) {
-            Fragment details;
             switch (position) {
                 default:
                 case 0:
-                    details = new HeroesList();
+                    mFragmentDetails = new HeroesList();
                     break;
                 case 1:
-                    details = new ItemsList();
+                    mFragmentDetails = new ItemsList();
                     break;
                 case 2:
-                    details = new PlayerGroupsHolder();
+                    mFragmentDetails = new PlayerGroupsHolder();
                     break;
                 case 3:
-                    details = new CounterPickFilter();
+                    mFragmentDetails = new CounterPickFilter();
                     break;
                 case 4:
-                    details = new CosmeticItemsList();
+                    mFragmentDetails = new CosmeticItemsList();
                     break;
                 case 5:
-                    details = new QuizTypeSelect();
+                    mFragmentDetails = new QuizTypeSelect();
                     break;
                 case 6:
-                    details = new TwitchHolder();
+                    mFragmentDetails = new TwitchHolder();
                     break;
                 case 7:
-                    details = new NewsList();
+                    mFragmentDetails = new NewsList();
                     break;
                 case 8:
-                    details = LeaguesGamesList.newInstance(null);
+                    mFragmentDetails = LeaguesGamesList.newInstance(null);
                     break;
                 case 9:
-                    details = new TrackdotaMain();
+                    mFragmentDetails = new TrackdotaMain();
                     break;
                     /*
                 case 9:
 					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
                     break;*/
             }
-            replaceFragment(details);
+            replaceFragment(mFragmentDetails);
             lastSelected = position;
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
             prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
@@ -238,6 +299,143 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     public void onRequestSuccess(String s) {
         localUpdateService.setUpdated(ListHolderActivity.this);
+    }
+
+
+    //Tab Change
+    @OnClick(R.id.tabHero)
+    public void onClickTabHero() {
+        openScreen(ScreenIDs.ScreenTab.HERO);
+    }
+
+    @OnClick(R.id.tabConterPick)
+    public void onClickTabCounterPick() {
+        openScreen(ScreenIDs.ScreenTab.COUNTERPICK);
+    }
+
+    @OnClick(R.id.tabQuiz)
+    public void onClickTabQuiz() {
+        openScreen(ScreenIDs.ScreenTab.QUIZ);
+    }
+
+    @OnClick(R.id.tabMenu)
+    public void onClickTabMenu() {
+        openScreen(ScreenIDs.ScreenTab.MENU);
+    }
+
+    public void openScreen(ScreenIDs.ScreenTab tab) {
+        if (tab != mCurrentTab) {
+            setHighLightTab(tab);
+            int position = -1;
+            switch (tab) {
+                default:
+                case HERO:
+                    mFragmentDetails = new HeroesList();
+                    position = 0;
+                    break;
+                case COUNTERPICK:
+                    mFragmentDetails = new CounterPickFilter();
+                    position = 1;
+                    break;
+                case QUIZ:
+                    mFragmentDetails = new QuizTypeSelect();
+                    position = 2;
+                    break;
+                case MENU:
+                    mFragmentDetails = new MenuFragment();
+                    position = 3;
+                    break;
+                    /*
+                case 9:
+					details=new LeaguesGamesList.newInstance("&c2=7057&c1=2390");
+                    break;*/
+            }
+            replaceFragment(mFragmentDetails);
+            mCurrentTab = tab;
+            lastSelected = position;
+            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+            prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
+        }
+    }
+
+
+    private void setHighLightTab(ScreenIDs.ScreenTab tab) {
+        android.util.Log.d(TAG, "setHighLightTab() called with: tab = [" + tab + "]");
+        tabHero.setBackgroundResource(R.color.tabbar_normal);
+        tabMenu.setBackgroundResource(R.color.tabbar_normal);
+        tabCounterPick.setBackgroundResource(R.color.tabbar_normal);
+        tabQuiz.setBackgroundResource(R.color.tabbar_normal);
+
+       /* lblTabRanking.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_ranking, 0, 0);
+        lblTabMenu.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_4, 0, 0);
+        lblTabTradeFeed.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab_2, 0, 0);
+        imgTradeSetting.setImageResource(R.drawable.ic_tab_3);*/
+
+        lblTabHero.setTextColor(tabNormalTextColor);
+        lblTabCounter.setTextColor(tabNormalTextColor);
+        lblTabQuiz.setTextColor(tabNormalTextColor);
+        lblTabMenu.setTextColor(tabNormalTextColor);
+
+        switch (tab) {
+            case HERO:
+                tabHero.setBackgroundResource(R.color.tabbar_active);
+                lblTabHero.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab1_hero, 0, 0);
+                lblTabHero.setTextColor(tabHighLightTextColor);
+                break;
+            case COUNTERPICK:
+                tabCounterPick.setBackgroundResource(R.color.tabbar_active);
+                lblTabCounter.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab2_counterpick, 0, 0);
+                lblTabCounter.setTextColor(tabHighLightTextColor);
+                break;
+            case QUIZ:
+                tabQuiz.setBackgroundResource(R.color.tabbar_active);
+                lblTabQuiz.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab3_quiz, 0, 0);
+                lblTabQuiz.setTextColor(tabHighLightTextColor);
+                break;
+            case MENU:
+                tabMenu.setBackgroundResource(R.color.tabbar_active);
+                lblTabMenu.setCompoundDrawablesWithIntrinsicBounds(0, R.drawable.ic_tab4_menu, 0, 0);
+                lblTabMenu.setTextColor(tabHighLightTextColor);
+                break;
+            default:
+                tabHero.setBackgroundResource(R.color.tabbar_normal);
+                tabCounterPick.setBackgroundResource(R.color.tabbar_normal);
+                tabQuiz.setBackgroundResource(R.color.tabbar_normal);
+                tabMenu.setBackgroundResource(R.color.tabbar_normal);
+                break;
+        }
+    }
+
+    public void onChangeFragment(int position) {
+        if (lastSelected != position) {
+            switch (position) {
+                default:
+                case 0:
+                    mFragmentDetails = new ItemsList();
+                    break;
+                case 1:
+                    mFragmentDetails = new NewsList();
+                    break;
+                case 2:
+                    mFragmentDetails =  LeaguesGamesList.newInstance(null);
+                    break;
+                case 3:
+                    mFragmentDetails = new TrackdotaMain();
+                    break;
+                case 4:
+                    //TODO call about
+                    mFragmentDetails = new CosmeticItemsList();
+                    break;
+                case 5:
+                    //TODO quit app
+                    mFragmentDetails = new QuizTypeSelect();
+                    break;
+            }
+            replaceFragment(mFragmentDetails);
+            lastSelected = position;
+            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+            prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
+        }
     }
 
 

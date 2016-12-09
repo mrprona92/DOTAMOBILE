@@ -1,3 +1,0 @@
-CHANGED,/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
-CHANGED,/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/badr/infodota/base/activity/ListHolderActivity$1$override.class
-CHANGED,/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/badr/infodota/base/activity/ListHolderActivity$override.class

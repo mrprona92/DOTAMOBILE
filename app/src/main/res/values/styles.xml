@@ -31,4 +31,31 @@
         <!-- Support library compatibility -->
         <item name="windowActionBarOverlay">true</item>
     </style>
+
+
+    <!-- Binh.TH add splash screen -->
+    <style name="splashScreenTheme" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_screen</item>
+    </style>
+
+    <style name="TextView.Tabbar" parent="Layout.FillWidth">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:textColor">@color/ranking_bgr_row</item>
+        <item name="android:drawablePadding">@dimen/padding_small</item>
+        <item name="android:textSize">@dimen/text_tabbar</item>
+    </style>
+
+    <style name="SettingSection" parent="Layout.FillWidth">
+        <item name="text">@string/app_name</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:drawablePadding">@dimen/padding_normal</item>
+        <item name="android:padding">@dimen/padding_normal</item>
+        <item name="android:textColor">@color/cmn_text_black</item>
+        <item name="android:textSize">@dimen/text_normal</item>
+        <item name="android:background">@color/cmn_transparent</item>
+    </style>
+
 </resources>
