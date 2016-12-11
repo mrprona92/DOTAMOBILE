@@ -104,14 +104,15 @@ public class HeroesList extends Fragment implements SearchableFragment, RequestL
         ActionMenuView actionMenuView = ((ListHolderActivity) getActivity()).getActionMenuView();
         Menu actionMenu = actionMenuView.getMenu();
         actionMenu.clear();
-        actionMenuView.setVisibility(View.VISIBLE);
-        inflater.inflate(R.menu.main, actionMenuView.getMenu());
-        MenuItem item = actionMenu.add(1, 1001, 1, getString(R.string.grid_carousel));
+        actionMenuView.setVisibility(View.GONE);
+        inflater.inflate(R.menu.main, menu);
+        MenuItem item = menu.add(1, 1001, 1, getString(R.string.grid_carousel));
         if (carousel) {
             item.setIcon(R.drawable.gridview);
         } else {
             item.setIcon(R.drawable.carousel);
         }
+
         MenuItemCompat.setShowAsAction(item, MenuItemCompat.SHOW_AS_ACTION_ALWAYS);
         actionMenuView.setOnMenuItemClickListener(new ActionMenuView.OnMenuItemClickListener() {
             @Override

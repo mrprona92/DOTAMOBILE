@@ -125,9 +125,9 @@ public class CounterPickFilter extends Fragment implements RequestListener<Truep
         ActionMenuView actionMenuView = ((ListHolderActivity) activity).getActionMenuView();
         Menu actionMenu = actionMenuView.getMenu();
         actionMenu.clear();
-        actionMenuView.setVisibility(View.VISIBLE);
+        actionMenuView.setVisibility(View.INVISIBLE);
 
-        MenuItem truePicker = actionMenu.add(1, 1011, 1, R.string.truepicker);
+       /* MenuItem truePicker = actionMenu.add(1, 1011, 1, R.string.truepicker);
         LayoutInflater layoutInflater = activity.getLayoutInflater();
         View truePickerView = layoutInflater.inflate(R.layout.truepicker_logo, null, false);
 
@@ -141,7 +141,7 @@ public class CounterPickFilter extends Fragment implements RequestListener<Truep
         });
         MenuItemCompat.setActionView(truePicker, truePickerView);
         MenuItemCompat.setShowAsAction(truePicker, MenuItemCompat.SHOW_AS_ACTION_ALWAYS);
-        truePicker.setIcon(R.drawable.truepicker_logo);
+        truePicker.setIcon(R.drawable.truepicker_logo);*/
 
         actionMenuView.setOnMenuItemClickListener(new ActionMenuView.OnMenuItemClickListener() {
             @Override

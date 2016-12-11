@@ -1,2 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a57a7e39cd3757de45948391f626603264f98478">
+        <dex dex="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56fd8bfcb85e2545d68b609a8458904f95eb2c1d\classes.dex" />
+    </item>
+
+</items>

@@ -58,4 +58,8 @@
         <item name="android:background">@color/cmn_transparent</item>
     </style>
 
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">13sp</item>
+    </style>
+
 </resources>

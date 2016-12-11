@@ -76,8 +76,8 @@ public class ItemsList extends Fragment implements SearchableFragment, OnItemCli
         ActionMenuView actionMenuView = ((ListHolderActivity) getActivity()).getActionMenuView();
         Menu actionMenu = actionMenuView.getMenu();
         actionMenu.clear();
-        actionMenuView.setVisibility(View.VISIBLE);
-        inflater.inflate(R.menu.main, actionMenu);
+        actionMenuView.setVisibility(View.GONE);
+        inflater.inflate(R.menu.main, menu);
         actionMenuView.setOnMenuItemClickListener(new ActionMenuView.OnMenuItemClickListener() {
             @Override
             public boolean onMenuItemClick(MenuItem menuItem) {

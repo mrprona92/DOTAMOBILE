@@ -51,7 +51,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
 
-   <!-- TEXT SIZE -->
+    <!-- TEXT SIZE -->
     <dimen name="text_smallest">9sp</dimen>
     <dimen name="text_event_smaller">8sp</dimen>
     <dimen name="text_tabbar">10sp</dimen>

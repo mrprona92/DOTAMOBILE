@@ -1,2 +1,7 @@
-CHANGED,/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/badr/infodota/base/menu/fragment/MenuFragment$override.class
-CHANGED,/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\badr\infodota\R$style$override.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\badr\infodota\R$styleable$override.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\v7\appcompat\R$style$override.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\pnikosis\materialishprogress\R$style$override.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\android\support\design\R$style$override.class
+CHANGED,D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\badr\infodota\base\R$style$override.class

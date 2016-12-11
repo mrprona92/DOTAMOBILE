@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/admin/Downloads/Infodota-master/appbase/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/admin/Downloads/Infodota-master/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/res/merged/androidTest/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
+        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\androidTest\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
     }
 ]

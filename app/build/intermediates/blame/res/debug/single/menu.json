@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/menu/search.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/menu/search.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/menu/main.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\hero_select.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\menu\\hero_select.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/menu/hero_select.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/menu/hero_select.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\item_select.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\menu\\item_select.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/menu/item_select.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/menu/item_select.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\menu\\search.xml"
     }
 ]

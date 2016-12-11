@@ -70,6 +70,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     private SpiceManager mSpiceManager = new SpiceManager(LocalSpiceService.class);
     private boolean doubleBackToExitPressedOnce = false;
     protected final String TAG = getClass().getSimpleName();
+    private Spinner navSpinner;
 
     @BindView(R.id.tabHero)
     LinearLayout tabHero;
@@ -135,7 +136,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         bar.setDisplayShowTitleEnabled(false);
         bar.setDisplayShowHomeEnabled(false);
 
-        Spinner navSpinner = (Spinner) mToolbar.findViewById(R.id.nav_spinner);
+        navSpinner= (Spinner) mToolbar.findViewById(R.id.nav_spinner);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 R.layout.spinner_item, getResources().getStringArray(R.array.main_menu));
         adapter.setDropDownViewResource(R.layout.spinner_dropdown_item);
@@ -145,6 +146,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         navSpinner.setOnItemSelectedListener(this);
         navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));
 
+
         UpdateUtils.checkNewVersion(this, false);
         //не нужен AppRater.onAppLaunched(this);
     }
@@ -153,8 +155,17 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu items for use in the action bar
 
-        if(mFragmentDetails instanceof HeroesList){
+        if(mFragmentDetails instanceof MenuFragment){
             Log.d("BINH", "onCreateOptionsMenu() called with: " + "menu = [" + menu + "]");
+            navSpinner.setVisibility(View.VISIBLE);
+        }else{
+            navSpinner.setVisibility(View.GONE);
+        }
+
+        if(mFragmentDetails instanceof  HeroesList){
+            mActionMenuView.setVisibility(View.GONE);
+        }else{
+            mActionMenuView.setVisibility(View.VISIBLE);
         }
 
         getMenuInflater().inflate(R.menu.search, menu);
@@ -428,7 +439,15 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                     break;
                 case 5:
                     //TODO quit app
-                    mFragmentDetails = new QuizTypeSelect();
+                    AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
+                    alertDialog.setTitle("Reset...");
+                    alertDialog.setMessage("Do you want quit application?");
+                    alertDialog.setButton("OK", new DialogInterface.OnClickListener() {
+                        public void onClick(DialogInterface dialog, int which) {
+                            android.os.Process.killProcess(android.os.Process.myPid());
+                            System.exit(1);
+                        } });
+                    alertDialog.show();
                     break;
             }
             replaceFragment(mFragmentDetails);

@@ -4,38 +4,35 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="376310514919674"
-    token="1158790175797603715"
-    verifier="METHOD_DELETED" >
+    timestamp="128842669456806"
+    token="4174051934358279519" >
 
     <task
         name="javac"
-        duration="3201" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="14" />
+        duration="0" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
-        location="/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-        type="DEX" />
+        location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\res\resources-debug.ap_"
+        type="RESOURCES" />
 
-    <build timestamp="376067964378643" >
+    <build timestamp="128725329065966" >
         <artifact
-            location="/Users/DotaInfo/DOTAMOBILE/app/build/outputs/apk/app-debug.apk"
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build
-        timestamp="376310514919674"
-        verifier="METHOD_DELETED" >
+    <build timestamp="128842669456806" >
         <artifact
-            location="/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\res\resources-debug.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>

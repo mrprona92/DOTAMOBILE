@@ -33,34 +33,42 @@
         <activity
             android:name="com.badr.infodota.base.activity.ListHolderActivity"
             android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
             android:theme="@style/splashScreenTheme"
-            android:windowSoftInputMode="adjustNothing" >
-        </activity>
+            android:windowSoftInputMode="adjustNothing" />
         <activity
             android:name="com.badr.infodota.hero.activity.HeroInfoActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.hero.activity.GuideActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.item.activity.ItemInfoActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.match.activity.MatchDetailsActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.player.activity.PlayerInfoActivity"
             android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait"
             android:windowSoftInputMode="stateHidden" />
         <activity
             android:name="com.badr.infodota.match.activity.MatchPlayerDetailsActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.base.activity.AboutActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.quiz.activity.QuizActivity"
-            android:configChanges="keyboard|orientation|screenSize" />
+            android:configChanges="keyboard|orientation|screenSize"
+            android:screenOrientation="portrait" />
         <activity
             android:name="com.badr.infodota.hero.activity.GuideCreatorActivity"
             android:configChanges="keyboard|orientation|screenSize" />
@@ -127,6 +135,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="com.badr.infodota.base.dialog.AndroidAlertDialogActivity" />
     </application>
 
 </manifest>
