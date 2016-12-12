@@ -34,3 +34,7 @@ build/
 
 #NDK
 obj/
+
+*.json
+
+*.xml
