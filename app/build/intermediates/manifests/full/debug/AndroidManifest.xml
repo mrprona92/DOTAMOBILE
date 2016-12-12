@@ -127,15 +127,6 @@
         <service
             android:name="com.badr.infodota.base.service.LocalSpiceService"
             android:exported="false" />
-
-        <activity android:name="com.badr.infodota.base.activity.SplashActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.badr.infodota.base.dialog.AndroidAlertDialogActivity" />
     </application>
 
 </manifest>
