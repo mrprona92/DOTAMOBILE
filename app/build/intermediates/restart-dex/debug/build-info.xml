@@ -4,12 +4,12 @@
     api-level="23"
     density="xxxhdpi"
     format="7"
-    timestamp="128842669456806"
+    timestamp="220492090977969"
     token="4174051934358279519" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2675" />
     <task
         name="instant-run-dex"
         duration="0" />
@@ -24,12 +24,46 @@
         location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\res\resources-debug.ap_"
         type="RESOURCES" />
 
-    <build timestamp="128725329065966" >
+    <build timestamp="216340246153368" >
         <artifact
             location="D:\Workspace_learn\DOTAMOBILE\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="128842669456806" >
+    <build timestamp="219188512441835" >
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="220256606018635" >
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="220492090977969" >
         <artifact
             location="D:\Workspace_learn\DOTAMOBILE\app\build\intermediates\res\resources-debug.ap_"
             type="RESOURCES" />

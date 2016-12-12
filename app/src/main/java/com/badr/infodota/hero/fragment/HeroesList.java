@@ -159,7 +159,7 @@ public class HeroesList extends Fragment implements SearchableFragment, RequestL
                 });
                 popup.show();
                 return true;
-            case R.id.about:
+           /* case R.id.about:
                 startActivity(new Intent(getActivity(), AboutActivity.class));
                 return true;
             case R.id.locale:
@@ -167,7 +167,7 @@ public class HeroesList extends Fragment implements SearchableFragment, RequestL
                 return true;
             case R.id.new_version:
                 UpdateUtils.checkNewVersion(getActivity(), true);
-                return true;
+                return true;*/
         }
         return super.onOptionsItemSelected(item);
     }

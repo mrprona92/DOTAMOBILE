@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
+                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "outputFile": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
+                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,7 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
+                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -72,7 +72,7 @@
         ]
     },
     {
-        "outputFile": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/res/merged/release/values-port/values-port.xml",
+        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
         "map": [
             {
                 "to": {
@@ -83,7 +83,31 @@
                     "endOffset": 106
                 },
                 "from": {
-                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-port/values-port.xml",
+                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 55,
+                        "endOffset": 331
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-port\\values-port.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -42,10 +42,9 @@ repositories {
     maven { url "https://jitpack.io" }
 }
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile fileTree(include: ['*.jar'], dir: 'libs')
     // Butter Knife
     apt 'com.jakewharton:butterknife-compiler:8.0.1'
-
     compile project(':appbase')
     compile 'com.github.PhilJay:MPAndroidChart:v2.1.3'
     compile 'com.android.support:appcompat-v7:23.0.1'

@@ -1,18 +1,22 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout-sw600dp/design_layout_snackbar.xml"
+        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     }
 ]

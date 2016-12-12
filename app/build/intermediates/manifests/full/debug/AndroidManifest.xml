@@ -121,6 +121,15 @@
                 android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
                 android:name="com.google.ads.AdActivity" />
         -->
+
+        <activity android:name="com.badr.infodota.base.activity.SplashActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
         <service
             android:name="com.octo.android.robospice.UncachedSpiceService"
             android:exported="false" />

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\toolbar_bottom_common.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-xlarge\\toolbar_bottom_common.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\toolbar_bottom_common.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-xlarge\\toolbar_bottom_common.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-xlarge-v4/main_fragment_holder.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-xlarge/main_fragment_holder.xml"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main_fragment_holder.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-xlarge\\main_fragment_holder.xml"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-xlarge-v4/toolbar_bottom_common.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-xlarge/toolbar_bottom_common.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main_fragment_holder.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-xlarge\\main_fragment_holder.xml"
     }
 ]
