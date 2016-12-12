@@ -9,7 +9,6 @@ import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
 import android.os.Environment;
-import android.support.v4.app.Fragment;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v4.view.PagerAdapter;
 import android.support.v7.widget.ActionMenuView;
@@ -34,6 +33,7 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.activity.AboutActivity;
 import com.badr.infodota.base.activity.ListHolderActivity;
 import com.badr.infodota.base.adapter.OnItemClickListener;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
 import com.badr.infodota.base.util.CarouselPageTransformer;
@@ -68,7 +68,7 @@ import pl.droidsonroids.gif.GifImageView;
  * Time: 14:14
  * https://github.com/florent37/MaterialLeanBack
  */
-public class HeroesList extends Fragment implements SearchableFragment, RequestListener {
+public class HeroesList extends SCBaseFragment implements SearchableFragment, RequestListener {
     RecyclerView gridView;
     PagerContainer mContainer;
     TransformableViewPager pager;
@@ -220,6 +220,51 @@ public class HeroesList extends Fragment implements SearchableFragment, RequestL
         } else {
             return inflater.inflate(R.layout.hero_list_carousel, container, false);
         }
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return 0;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    protected int getViewContent() {
+        return 0;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override

@@ -1,6 +1,8 @@
 package com.badr.infodota.base.activity;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
+import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
@@ -8,18 +10,22 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.preference.PreferenceManager;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v7.app.ActionBar;
 import android.support.v7.widget.ActionMenuPresenter;
 import android.support.v7.widget.SearchView;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.Window;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.Spinner;
 import android.widget.TextView;
@@ -30,6 +36,8 @@ import com.badr.infodota.R;
 import com.badr.infodota.base.api.Constants;
 import com.badr.infodota.base.configs.ScreenIDs;
 import com.badr.infodota.base.dao.Helper;
+import com.badr.infodota.base.fragment.SCAlertDialog;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.fragment.SearchableFragment;
 import com.badr.infodota.base.menu.fragment.MenuFragment;
 import com.badr.infodota.base.service.LocalSpiceService;
@@ -57,6 +65,8 @@ import butterknife.BindColor;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import butterknife.OnClick;
+
+import static android.view.View.GONE;
 
 /**
  * User: ABadretdinov
@@ -96,8 +106,18 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @BindView(R.id.lblTabMenu)
     TextView lblTabMenu;
 
+
+    @BindView(R.id.btnBack)
+    ImageView btnBack;
+
+
+    @BindView(R.id.lblToolbarTitle)
+    TextView lblToolbarTitle;
+
+
     private ScreenIDs.ScreenTab mCurrentTab;
 
+    private SCBaseFragment mCurrentFragment;
 
     @BindColor(R.color.cmn_white)
     int tabHighLightTextColor;
@@ -105,6 +125,25 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @BindColor(R.color.ranking_bgr_row)
     int tabNormalTextColor;
+
+    private FragmentManager mFragmentManager;
+
+
+    private void initControl() {
+        mFragmentManager = getSupportFragmentManager();
+        mFragmentManager.addOnBackStackChangedListener(new FragmentManager.OnBackStackChangedListener() {
+            @Override
+            public void onBackStackChanged() {
+                Log.e(TAG, "onBackStackChanged() called");
+                Fragment fr = mFragmentManager.findFragmentById(R.id.details);
+                if (fr != null) {
+                    mCurrentFragment = (SCBaseFragment) fr;
+                    updateUI();
+                    Log.e(TAG, "Current fragment = " + fr.getClass().getSimpleName());
+                }
+            }
+        });
+    }
 
 
     @Override
@@ -118,8 +157,12 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                 mSpiceManager.execute(new UpdateLoadRequest(getApplicationContext()), this);
             }
         }
+
+        initControl();
+
         super.onStart();
     }
+
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
@@ -146,6 +189,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         navSpinner.setOnItemSelectedListener(this);
         navSpinner.setSelection(Math.min(selected, adapter.getCount() - 1));
 
+        navSpinner.setVisibility(View.GONE);
 
         UpdateUtils.checkNewVersion(this, false);
         //не нужен AppRater.onAppLaunched(this);
@@ -162,9 +206,11 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             navSpinner.setVisibility(View.GONE);
         }
 
-        if(mFragmentDetails instanceof  HeroesList){
+        if(mFragmentDetails instanceof HeroesList){
+            lblToolbarTitle.setVisibility(View.GONE);
             mActionMenuView.setVisibility(View.GONE);
         }else{
+            lblToolbarTitle.setVisibility(View.VISIBLE);
             mActionMenuView.setVisibility(View.VISIBLE);
         }
 
@@ -321,7 +367,8 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @OnClick(R.id.tabConterPick)
     public void onClickTabCounterPick() {
-        openScreen(ScreenIDs.ScreenTab.COUNTERPICK);
+        //openScreen(ScreenIDs.ScreenTab.COUNTERPICK);
+        openScreen(ScreenIDs.ScreenTab.COUNTERPICK, CounterPickFilter.class, null, true, false);
     }
 
     @OnClick(R.id.tabQuiz)
@@ -455,6 +502,164 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
             prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
         }
+    }
+
+
+
+    /**
+     * Returns the shared progress dialog.
+     *
+     * @author Binh.TH
+     */
+    @SuppressLint("InflateParams")
+    private Dialog getProgressDialog() {
+        if (mProgressDialog == null) {         // Create if null
+            mProgressDialog = new Dialog(this, android.R.style.Theme_Black);
+            View view = LayoutInflater.from(this).inflate(R.layout.cmn_process,null);
+            mProgressDialog.requestWindowFeature(Window.FEATURE_NO_TITLE);
+            mProgressDialog.getWindow().setBackgroundDrawableResource(R.color.transparent);
+            mProgressDialog.setContentView(view);
+        }
+        return mProgressDialog;
+    }
+
+
+    private Dialog mProgressDialog;
+
+    public void showProgressDialog(final String message) {
+        showProgressDialog(message, false);
+    }
+    private int sDialogCount = 0;
+
+    /**
+     * Show progress dialog.
+     *
+     * @param message
+     * @param cancelable
+     */
+    public void showProgressDialog(final String message, final boolean cancelable) {
+        try{
+            runOnUiThread(new Runnable() {
+                @Override
+                public void run() {
+                    try {
+                        Dialog dlg = getProgressDialog();
+                        sDialogCount++;
+                        if(!dlg.isShowing()){
+                            dlg.setCancelable(cancelable);
+                            dlg.show();
+                        }
+                    } catch (Exception ex) {
+                        // Do nothing
+                    }
+                }
+            });
+        }
+        catch(Exception e){}
+    }
+
+    private SCAlertDialog mAlertDialog;
+
+    public void showAlertDialog(final int message) {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                if (mAlertDialog != null && mAlertDialog.isShowing()) {
+                    mAlertDialog.hide();
+                }
+                mAlertDialog = new SCAlertDialog(ListHolderActivity.this, message, R.string.cmn_ok);
+                mAlertDialog.show();
+            }
+        });
+    }
+
+    public void showAlertDialog(final String message) {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                if (mAlertDialog != null && mAlertDialog.isShowing()) {
+                    mAlertDialog.hide();
+                }
+                mAlertDialog = new SCAlertDialog(ListHolderActivity.this, message, R.string.cmn_ok);
+                mAlertDialog.show();
+            }
+        });
+    }
+
+
+
+    public void updateUI() {
+        Log.d(TAG, "updateUI: called");
+
+        if (mCurrentFragment != null) {
+            if (mCurrentFragment.getToolbarTitle() != -99) {
+                if (lblToolbarTitle != null && mCurrentFragment.getToolbarTitle() > 0) {
+                    lblToolbarTitle.setText(mCurrentFragment.getToolbarTitle());
+                }
+            } else {
+                lblToolbarTitle.setText(mCurrentFragment.getToolbarTitleString());
+            }
+        }
+
+        btnBack.setVisibility(mFragmentManager.getBackStackEntryCount() >= 1 ? View.VISIBLE : GONE);
+
+
+        if (mCurrentFragment instanceof HeroesList)
+            setHighLightTab(ScreenIDs.ScreenTab.HERO);
+       /* if (mCurrentFragment instanceof Coun)
+            setHighLightTab(ScreenIDs.ScreenTab.RANKING);
+        if (mCurrentFragment instanceof TradeSettingFragment)
+            setHighLightTab(ScreenIDs.ScreenTab.TRADE_SETTING);
+        if (mCurrentFragment instanceof TradeStatusFragment)
+            setHighLightTab(ScreenIDs.ScreenTab.TRADE_SETTING);
+        if (mCurrentFragment instanceof MenuFragment) setHighLightTab(ScreenIDs.ScreenTab.MENU);*/
+    }
+
+
+    private void openScreen2(ScreenIDs.ScreenTab tab, Class<? extends SCBaseFragment> fragmentClass, Bundle bundles, boolean isAnimate,
+                             boolean shouldAddToBackStack) {
+
+        //if (tab != ScreenIDs.ScreenTab.NOT_HIGHLIGHT) clearBackStack();
+        if (getBaseContext() == null) return;
+
+        setHighLightTab(tab);
+        this.mCurrentTab = tab;
+
+        FragmentManager manager = getSupportFragmentManager();
+        String tag = fragmentClass.getName();
+        try {
+            FragmentTransaction transaction = manager.beginTransaction();
+            if (isAnimate)
+                transaction.setCustomAnimations(R.anim.enter, R.anim.exit, R.anim.pop_enter, R.anim.pop_exit);
+            //if (!manager.popBackStackImmediate(tag, 0) && manager.findFragmentByTag(tag) == null) {
+            Log.e(TAG, "openScreen: fragment " + fragmentClass.getSimpleName() + " is NOT from back stack");
+            mCurrentFragment = fragmentClass.newInstance();
+            mCurrentFragment.setRetainInstance(true);
+            if (bundles == null) bundles = new Bundle();
+            mCurrentFragment.setArguments(bundles);
+            if (shouldAddToBackStack) {
+                transaction.addToBackStack(tag);
+                Log.e(TAG, "openScreen: add " + tag + " to back stack");
+            }
+            transaction.replace(R.id.details, mCurrentFragment, tag);
+            transaction.commitAllowingStateLoss();
+//            } else {
+//                Log.e(TAG, "openScreen: popped " + tag + " from back stack");
+//                mCurrentFragment = (SCBaseFragment) manager.findFragmentByTag(tag);
+//            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void openScreen(final ScreenIDs.ScreenTab tab, final Class<? extends SCBaseFragment> fragmentClass, final Bundle bundles, final boolean isAnimate,
+                           final boolean shouldAddToBackStack) {
+        runOnUiThread(new Runnable() {
+            @Override
+            public void run() {
+                openScreen2(tab, fragmentClass, bundles, isAnimate, shouldAddToBackStack);
+            }
+        });
     }
 
 

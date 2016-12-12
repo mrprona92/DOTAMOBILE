@@ -650,7 +650,7 @@
     <style name="myToolBar" parent="Widget.AppCompat.Toolbar">
         <item name="android:layout_height">45dp</item>
         <item name="android:layout_width">match_parent</item>
-        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:background">@color/tabbar_active</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
         <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
     </style>
@@ -687,7 +687,6 @@
     <style name="SpinnerCommon">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/btn_height_medium</item>
-        <item name="android:overlapAnchor">false</item>
         <item name="android:layout_marginTop">@dimen/padding_small</item>
         <item name="android:background">@drawable/spinner_background</item>
         <item name="android:spinnerMode">dropdown</item>
@@ -697,7 +696,6 @@
     <style name="SpinnerRanking">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/btn_height_small</item>
-        <item name="android:overlapAnchor">false</item>
         <item name="android:layout_marginTop">@dimen/padding_smaller</item>
         <item name="android:background">@drawable/spinner_background</item>
         <item name="android:spinnerMode">dropdown</item>
@@ -707,7 +705,6 @@
     <style name="SpinnerProfile">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">@dimen/btn_height_medium</item>
-        <item name="android:overlapAnchor">false</item>
         <item name="android:layout_marginTop">@dimen/padding_small</item>
         <item name="android:background">@drawable/spinner_profile_background</item>
         <item name="android:spinnerMode">dropdown</item>
@@ -727,6 +724,10 @@
     </style>
 
 
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation">@anim/zoom_out</item>
+        <item name="android:windowExitAnimation">@anim/fadeout</item>
+    </style>
 
 
 </resources>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:2:1-127:12
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:2:1-136:12
 	package
 		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml
@@ -32,7 +32,7 @@ ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:9:5-73
 	android:name
 		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:9:22-70
 application
-ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:11:5-125:19
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:11:5-134:19
 MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.4.0] /Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:design:23.0.1] /Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/AndroidManifest.xml:22:5-20
@@ -249,18 +249,32 @@ ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:110:9-112
 		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:112:13-68
 	android:name
 		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:111:13-66
+activity#com.badr.infodota.base.activity.SplashActivity
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:119:9-125:20
+	android:name
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:119:19-63
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:120:13-124:29
+action#android.intent.action.MAIN
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:121:17-69
+	android:name
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:121:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:123:17-77
+	android:name
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:123:27-74
 service#com.octo.android.robospice.UncachedSpiceService
-ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:118:9-120:40
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:127:9-129:40
 	android:exported
-		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:120:13-37
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:129:13-37
 	android:name
-		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:119:13-75
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:128:13-75
 service#com.badr.infodota.base.service.LocalSpiceService
-ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:121:9-123:40
+ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:130:9-132:40
 	android:exported
-		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:123:13-37
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:132:13-37
 	android:name
-		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:122:13-59
+		ADDED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml:131:13-59
 uses-sdk
 INJECTED from /Users/DotaInfo/DOTAMOBILE/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [DOTAMOBILE:appbase:unspecified] /Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/DOTAMOBILE/appbase/unspecified/AndroidManifest.xml:8:5-10:41

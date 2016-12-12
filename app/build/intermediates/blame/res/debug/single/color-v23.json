@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\color-v23\\abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color-v23/abc_color_highlight_material.xml"
     }

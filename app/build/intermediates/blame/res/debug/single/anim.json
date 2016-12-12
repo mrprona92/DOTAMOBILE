@@ -1,39 +1,43 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_out_l2r.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_out_l2r.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/enter.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/enter.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/pop_exit.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/pop_exit.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_out.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/left_to_right.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/left_to_right.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/fadeout.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/fadeout.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/push_up_out.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/push_up_out.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_in.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/push_up_in.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/push_up_in.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_in.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
@@ -48,36 +52,44 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_fab_out.xml"
     },
     {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_in_l2r.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_in_l2r.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/zoom_out.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/zoom_out.xml"
+    },
+    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_out.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_in_r2l.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_in_r2l.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_fab_in.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/pop_enter.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/pop_enter.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_out_r2l_30p.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_out_r2l_30p.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/right_to_left.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/right_to_left.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_in.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\anim\\design_snackbar_in.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/loading.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/loading.xml"
     },
     {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
@@ -92,10 +104,6 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_fade_out.xml"
-    },
-    {
         "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_fade_out.xml"
     },
@@ -104,11 +112,19 @@
         "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_out_r2l.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_out_r2l.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/exit.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/exit.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_r2l.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_r2l.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/anim/slide_in_l2r_30p.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/anim/slide_in_l2r_30p.xml"
     }
 ]

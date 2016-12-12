@@ -26,6 +26,7 @@ import com.badr.infodota.BeanContainer;
 import com.badr.infodota.R;
 import com.badr.infodota.base.activity.BaseActivity;
 import com.badr.infodota.base.activity.ListHolderActivity;
+import com.badr.infodota.base.fragment.SCBaseFragment;
 import com.badr.infodota.base.util.SteamUtils;
 import com.badr.infodota.base.view.FlowLayout;
 import com.badr.infodota.counter.activity.CounterPickerHeroesSelectActivity;
@@ -46,7 +47,7 @@ import java.util.ArrayList;
  * Date: 20.02.14
  * Time: 17:46
  */
-public class CounterPickFilter extends Fragment implements RequestListener<TruepickerHero.List> {
+public class CounterPickFilter extends SCBaseFragment implements RequestListener<TruepickerHero.List> {
     private ScrollView scroll;
     private FlowLayout recommendationsView;
     private View recommendsTitle;
@@ -115,6 +116,51 @@ public class CounterPickFilter extends Fragment implements RequestListener<Truep
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         return inflater.inflate(R.layout.counter_filters, container, false);
+    }
+
+    @Override
+    public int getToolbarTitle() {
+        return R.string.menu_counter_pick;
+    }
+
+    @Override
+    public String getToolbarTitleString() {
+        return null;
+    }
+
+    @Override
+    public int getViewContent() {
+        return R.layout.counter_filters;
+    }
+
+    @Override
+    protected void initUI() {
+
+    }
+
+    @Override
+    protected void initControls() {
+
+    }
+
+    @Override
+    protected void initData() {
+
+    }
+
+    @Override
+    public void hideInformation() {
+
+    }
+
+    @Override
+    protected void registerListeners() {
+
+    }
+
+    @Override
+    protected void unregisterListener() {
+
     }
 
     @Override
