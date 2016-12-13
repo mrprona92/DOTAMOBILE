@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="main_menu">
-        <item>ГЕРОИ</item>
-        <item>ПРЕДМЕТЫ</item>
-        <item>ИГРОКИ</item>
-        <item>КОНТРПИК</item>
-        <item>ШМОТКИ</item>
-        <item>ВИКТОРИНА</item>
+        <item>HEROES</item>
+        <item>ITEMS</item>
+        <item>PLAYERS</item>
+        <item>COUNTERPICK</item>
+        <item>STORE ITEMS</item>
+        <item>QUIZ</item>
         <item>TWITCH.TV</item>
-        <item>НОВОСТИ</item>
-        <item>ТУРНИРНЫЕ ИГРЫ</item>
+        <item>NEWS</item>
+        <item>TOURNAMENT GAMES</item>
         <item>TRACKDOTA</item>
         <!--<item>THE INTERNATIONAL</item>-->
     </string-array>
+    <string-array name="game_modes">
+        <item>All Pick</item>
+        <item>Captains Mode</item>
+        <item>Random Draft</item>
+        <item>Single Draft</item>
+        <item>All Random</item>
+        <item>INTRO/DEATH</item>
+        <item>The Diretide</item>
+        <item>Reverse Captains Mode</item>
+        <item>Greeviling</item>
+        <item>Tutorial</item>
+        <item>Mid Only</item>
+        <item>Least Played</item>
+        <item>Limited Hero</item>
+        <item>Compendium Matchmaking</item>
+        <item>Custom</item>
+        <item>Captains Draft</item>
+        <item>New Bloom</item>
+        <item>Random Ability Draft</item>
+        <item>Event</item>
+        <item>All Random DeathMatch</item>
+        <item>1 vs 1 mid</item>
+    </string-array>
+
     <string-array name="lobby_types">
         <item>Обычная игра</item>
         <item>Практика</item>

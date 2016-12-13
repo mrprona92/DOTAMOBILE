@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\Workspace_learn\DOTAMOBILE\appbase\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\Workspace_learn\DOTAMOBILE\appbase\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/DotaInfo/DOTAMOBILE/appbase/src/main/shaders"/></dataSet><dataSet config="debug"><source path="/Users/DotaInfo/DOTAMOBILE/appbase/src/debug/shaders"/></dataSet></merger>

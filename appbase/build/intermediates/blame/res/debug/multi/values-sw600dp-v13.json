@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 89
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 228
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 378
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 437
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 508
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 576
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 646
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 847
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1119
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1182
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -335,7 +335,7 @@
                     "endOffset": 1364
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -349,7 +349,7 @@
         ]
     },
     {
-        "outputFile": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -360,7 +360,7 @@
                     "endOffset": 89
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -379,7 +379,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -398,7 +398,7 @@
                     "endOffset": 228
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -417,7 +417,7 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -436,7 +436,7 @@
                     "endOffset": 378
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -455,7 +455,7 @@
                     "endOffset": 437
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -474,7 +474,7 @@
                     "endOffset": 508
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -493,7 +493,7 @@
                     "endOffset": 576
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -512,7 +512,7 @@
                     "endOffset": 646
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -531,7 +531,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -550,7 +550,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -569,7 +569,7 @@
                     "endOffset": 847
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -588,7 +588,7 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -607,7 +607,7 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -626,7 +626,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -645,7 +645,7 @@
                     "endOffset": 1119
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -664,7 +664,7 @@
                     "endOffset": 1182
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -684,7 +684,7 @@
                     "endOffset": 1364
                 },
                 "from": {
-                    "file": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -698,7 +698,7 @@
         ]
     },
     {
-        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -709,7 +709,1054 @@
                     "endOffset": 89
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 68,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 69,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 69,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 73,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 75,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 75,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 58,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 58,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 70,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 70,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 67,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 69,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 69,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 70,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 71,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 71,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 57,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 57,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 57,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 57,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 105,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 105,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 52,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 52,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 54,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 62,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 62,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1452
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/res/merged/debug/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/src/main/res/values-sw600dp/bool.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 68,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 69,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 69,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 73,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 75,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 75,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 58,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 58,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 70,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 70,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 67,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 69,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 69,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 70,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 71,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 71,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 57,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 57,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 57,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 57,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 105,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 105,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 52,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 52,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 54,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 62,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 62,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values-sw600dp/values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1452
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 38,
+                        "endOffset": 89
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 68,
+                    "endOffset": 158
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 284,
+                        "endColumn": 68,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 163,
+                    "endColumn": 69,
+                    "endOffset": 228
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 69,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 233,
+                    "endColumn": 73,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 73,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 75,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 75,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 58,
+                    "endOffset": 437
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 802,
+                        "endColumn": 58,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 442,
+                    "endColumn": 70,
+                    "endOffset": 508
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 70,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 513,
+                    "endColumn": 67,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 67,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 69,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 69,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 70,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 70,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 71,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 71,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 57,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 57,
+                        "endOffset": 544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 57,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 549,
+                        "endColumn": 57,
+                        "endOffset": 602
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 105,
+                    "endOffset": 1011
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 607,
+                        "endColumn": 105,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1016,
+                    "endColumn": 52,
+                    "endOffset": 1064
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 52,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1069,
+                    "endColumn": 54,
+                    "endOffset": 1119
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1229,
+                        "endColumn": 54,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1124,
+                    "endColumn": 62,
+                    "endOffset": 1182
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 62,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1187,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1364
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1275,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 1452
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -728,7 +1775,7 @@
                     "endOffset": 158
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -747,7 +1794,7 @@
                     "endOffset": 228
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -766,7 +1813,7 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -785,7 +1832,7 @@
                     "endOffset": 378
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -804,7 +1851,7 @@
                     "endOffset": 437
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -823,7 +1870,7 @@
                     "endOffset": 508
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -842,7 +1889,7 @@
                     "endOffset": 576
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -861,7 +1908,7 @@
                     "endOffset": 646
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -880,7 +1927,7 @@
                     "endOffset": 717
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -899,7 +1946,7 @@
                     "endOffset": 789
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -918,7 +1965,7 @@
                     "endOffset": 847
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -937,7 +1984,7 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -956,7 +2003,7 @@
                     "endOffset": 1011
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -975,7 +2022,7 @@
                     "endOffset": 1064
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -994,7 +2041,7 @@
                     "endOffset": 1119
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1013,7 +2060,7 @@
                     "endOffset": 1182
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1033,705 +2080,7 @@
                     "endOffset": 1364
                 },
                 "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1275,
-                        "endLine": 19,
-                        "endColumn": 12,
-                        "endOffset": 1452
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 38,
-                    "endOffset": 89
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 38,
-                        "endOffset": 89
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 94,
-                    "endColumn": 68,
-                    "endOffset": 158
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 68,
-                        "endOffset": 348
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 69,
-                    "endOffset": 228
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 353,
-                        "endColumn": 69,
-                        "endOffset": 418
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 233,
-                    "endColumn": 73,
-                    "endOffset": 302
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 423,
-                        "endColumn": 73,
-                        "endOffset": 492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 307,
-                    "endColumn": 75,
-                    "endOffset": 378
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 497,
-                        "endColumn": 75,
-                        "endOffset": 568
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 383,
-                    "endColumn": 58,
-                    "endOffset": 437
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 802,
-                        "endColumn": 58,
-                        "endOffset": 856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 442,
-                    "endColumn": 70,
-                    "endOffset": 508
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1090,
-                        "endColumn": 70,
-                        "endOffset": 1156
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 513,
-                    "endColumn": 67,
-                    "endOffset": 576
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1161,
-                        "endColumn": 67,
-                        "endOffset": 1224
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 581,
-                    "endColumn": 69,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 69,
-                        "endOffset": 343
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 70,
-                    "endOffset": 717
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 348,
-                        "endColumn": 70,
-                        "endOffset": 414
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 722,
-                    "endColumn": 71,
-                    "endOffset": 789
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 419,
-                        "endColumn": 71,
-                        "endOffset": 486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 794,
-                    "endColumn": 57,
-                    "endOffset": 847
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 491,
-                        "endColumn": 57,
-                        "endOffset": 544
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 852,
-                    "endColumn": 57,
-                    "endOffset": 905
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 549,
-                        "endColumn": 57,
-                        "endOffset": 602
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 910,
-                    "endColumn": 105,
-                    "endOffset": 1011
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 607,
-                        "endColumn": 105,
-                        "endOffset": 708
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1016,
-                    "endColumn": 52,
-                    "endOffset": 1064
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 713,
-                        "endColumn": 52,
-                        "endOffset": 761
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1069,
-                    "endColumn": 54,
-                    "endOffset": 1119
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1229,
-                        "endColumn": 54,
-                        "endOffset": 1279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1124,
-                    "endColumn": 62,
-                    "endOffset": 1182
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 989,
-                        "endColumn": 62,
-                        "endOffset": 1047
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1187,
-                    "endLine": 22,
-                    "endColumn": 12,
-                    "endOffset": 1364
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1275,
-                        "endLine": 19,
-                        "endColumn": 12,
-                        "endOffset": 1452
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 38,
-                    "endOffset": 89
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\src\\main\\res\\values-sw600dp\\bool.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 38,
-                        "endOffset": 89
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 94,
-                    "endColumn": 68,
-                    "endOffset": 158
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 284,
-                        "endColumn": 68,
-                        "endOffset": 348
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 163,
-                    "endColumn": 69,
-                    "endOffset": 228
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 353,
-                        "endColumn": 69,
-                        "endOffset": 418
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 233,
-                    "endColumn": 73,
-                    "endOffset": 302
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 423,
-                        "endColumn": 73,
-                        "endOffset": 492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 307,
-                    "endColumn": 75,
-                    "endOffset": 378
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 497,
-                        "endColumn": 75,
-                        "endOffset": 568
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 383,
-                    "endColumn": 58,
-                    "endOffset": 437
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 802,
-                        "endColumn": 58,
-                        "endOffset": 856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 442,
-                    "endColumn": 70,
-                    "endOffset": 508
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1090,
-                        "endColumn": 70,
-                        "endOffset": 1156
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 513,
-                    "endColumn": 67,
-                    "endOffset": 576
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1161,
-                        "endColumn": 67,
-                        "endOffset": 1224
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 581,
-                    "endColumn": 69,
-                    "endOffset": 646
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 278,
-                        "endColumn": 69,
-                        "endOffset": 343
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 651,
-                    "endColumn": 70,
-                    "endOffset": 717
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 348,
-                        "endColumn": 70,
-                        "endOffset": 414
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 722,
-                    "endColumn": 71,
-                    "endOffset": 789
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 419,
-                        "endColumn": 71,
-                        "endOffset": 486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 794,
-                    "endColumn": 57,
-                    "endOffset": 847
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 491,
-                        "endColumn": 57,
-                        "endOffset": 544
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 852,
-                    "endColumn": 57,
-                    "endOffset": 905
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 549,
-                        "endColumn": 57,
-                        "endOffset": 602
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 910,
-                    "endColumn": 105,
-                    "endOffset": 1011
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 607,
-                        "endColumn": 105,
-                        "endOffset": 708
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1016,
-                    "endColumn": 52,
-                    "endOffset": 1064
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 713,
-                        "endColumn": 52,
-                        "endOffset": 761
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1069,
-                    "endColumn": 54,
-                    "endOffset": 1119
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1229,
-                        "endColumn": 54,
-                        "endOffset": 1279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1124,
-                    "endColumn": 62,
-                    "endOffset": 1182
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 989,
-                        "endColumn": 62,
-                        "endOffset": 1047
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1187,
-                    "endLine": 22,
-                    "endColumn": 12,
-                    "endOffset": 1364
-                },
-                "from": {
-                    "file": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "file": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\values-sw600dp\\values-sw600dp.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

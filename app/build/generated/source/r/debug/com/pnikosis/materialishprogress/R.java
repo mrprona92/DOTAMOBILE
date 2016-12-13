@@ -472,8 +472,8 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with = 0x7f06000e;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f06000f;
 		public static final int abc_toolbar_collapse_description = 0x7f060010;
-		public static final int app_name = 0x7f060154;
-		public static final int default_progressbar = 0x7f060158;
+		public static final int app_name = 0x7f06002e;
+		public static final int default_progressbar = 0x7f06016e;
 	}
 	public static final class style {
 		public static final int Animation_AppCompat_DropDownUp = 0x7f08007f;

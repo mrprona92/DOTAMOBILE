@@ -2,9 +2,15 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.neenbedankt.android-apt'
 
 android {
+    signingConfigs {
+        configProdoStudio {
+            keyAlias 'mrprona92'
+            keyPassword 'A92@abc.'
+            storePassword 'A92@abc.'
+        }
+    }
     compileSdkVersion 23
     buildToolsVersion '24.0.0'
-
     defaultConfig {
         applicationId "com.prona.dotainfo"
         minSdkVersion 15

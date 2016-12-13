@@ -1,5 +1,6 @@
 package com.badr.infodota.base.activity;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
@@ -202,9 +203,7 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu items for use in the action bar
-
         if(mFragmentDetails instanceof MenuFragment){
-            Log.d("BINH", "onCreateOptionsMenu() called with: " + "menu = [" + menu + "]");
             navSpinner.setVisibility(View.VISIBLE);
         }else{
             navSpinner.setVisibility(View.GONE);
@@ -291,7 +290,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-        if (lastSelected != position) {
             switch (position) {
                 default:
                 case 0:
@@ -333,7 +331,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
             lastSelected = position;
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
             prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
-        }
     }
 
     @Override

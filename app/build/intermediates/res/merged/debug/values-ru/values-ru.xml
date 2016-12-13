@@ -8,6 +8,29 @@
         <item>Наборы</item>
         <item>Сундуки</item>
     </string-array>
+    <string-array name="game_modes">
+        <item>All Pick</item>
+        <item>Captains Mode</item>
+        <item>Random Draft</item>
+        <item>Single Draft</item>
+        <item>All Random</item>
+        <item>INTRO/DEATH</item>
+        <item>The Diretide</item>
+        <item>Reverse Captains Mode</item>
+        <item>Greeviling</item>
+        <item>Tutorial</item>
+        <item>Mid Only</item>
+        <item>Least Played</item>
+        <item>Limited Hero</item>
+        <item>Compendium Matchmaking</item>
+        <item>Custom</item>
+        <item>Captains Draft</item>
+        <item>New Bloom</item>
+        <item>Random Ability Draft</item>
+        <item>Event</item>
+        <item>All Random DeathMatch</item>
+        <item>1 vs 1 mid</item>
+    </string-array>
     <string-array name="hero_response_actions">
         <item>Скачать</item>
         <item>Установить как рингтон</item>
@@ -55,15 +78,15 @@
         <item>1 на 1</item>
     </string-array>
     <string-array name="main_menu">
-        <item>ГЕРОИ</item>
-        <item>ПРЕДМЕТЫ</item>
-        <item>ИГРОКИ</item>
-        <item>КОНТРПИК</item>
-        <item>ШМОТКИ</item>
-        <item>ВИКТОРИНА</item>
+        <item>HEROES</item>
+        <item>ITEMS</item>
+        <item>PLAYERS</item>
+        <item>COUNTERPICK</item>
+        <item>STORE ITEMS</item>
+        <item>QUIZ</item>
         <item>TWITCH.TV</item>
-        <item>НОВОСТИ</item>
-        <item>ТУРНИРНЫЕ ИГРЫ</item>
+        <item>NEWS</item>
+        <item>TOURNAMENT GAMES</item>
         <item>TRACKDOTA</item>
         <!--<item>THE INTERNATIONAL</item>-->
     </string-array>
@@ -242,6 +265,17 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string name="achievement_a_little_better"/>
+    <string name="achievement_cheater"/>
+    <string name="achievement_first_game__first_achievement"/>
+    <string name="achievement_high_five"/>
+    <string name="achievement_im_everywhere"/>
+    <string name="achievement_im_proud_of_you"/>
+    <string name="achievement_loler"/>
+    <string name="achievement_newbie"/>
+    <string name="achievement_not_bad"/>
+    <string name="achievement_perfect_attempt"/>
+    <string name="achievement_pro"/>
     <string name="achievements">Достижения</string>
     <string name="add">Добавить</string>
     <string name="add_calendar_event">Добавить событие в календарь</string>
@@ -256,7 +290,9 @@
     <string name="allies">Союзники:</string>
     <string name="allies_selected">Союзников выбрано: {0}</string>
     <string name="any_role">Любая роль</string>
+    <string name="api">YOU_STEAM_API_HERE</string>
     <string name="api_is_down">Dota 2 API недоступно. Матчи не будут обновляться, пока API не поднимется</string>
+    <string name="app_name">Dota2 Helper</string>
     <string name="armor">Броня</string>
     <string name="assists"><b>Помощей:</b></string>
     <string name="assists_">Помощей: {0}</string>
@@ -293,6 +329,8 @@
     <string name="check_new_version">Проверить обновление</string>
     <string name="choose_hero_skill">Выберите умение этого героя:</string>
     <string name="choose_items_from">Выберите из каких предметов состоит этот:</string>
+    <string name="cmn_cancel">CANCEL</string>
+    <string name="cmn_ok">OK</string>
     <string name="coming_soon">Скоро</string>
     <string name="common">ОСНОВНОЕ</string>
     <string name="core_items">ОСНОВНЫЕ ПРЕДМЕТЫ</string>
@@ -313,6 +351,7 @@
     <string name="delete_player_title">Удалить игрока из списка</string>
     <string name="denies"><b>Денаев:</b></string>
     <string name="denies_">Денаев: {0}</string>
+    <string name="dire">DIRE</string>
     <string name="dire_win">Dire победили</string>
     <string name="disconnected">Отключился</string>
     <string name="download">Скачать</string>
@@ -369,6 +408,7 @@
     <string name="guide_next">Продолжить</string>
     <string name="guide_saved">Гайд сохранен!</string>
     <string name="guides">ГАЙДЫ</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="hero_damage"><b>Урона героям:</b></string>
     <string name="hero_damage_">Урон: {0}</string>
     <string name="hero_header">Герой</string>
@@ -418,6 +458,9 @@
     <string name="last_hits"><b>Добиваний:</b></string>
     <string name="last_hits_">Добиваний: {0}</string>
     <string name="last_updated_time">Последнее обновление: {0}</string>
+    <string name="leaderboard_best_by_abilities_quiz"/>
+    <string name="leaderboard_best_by_items_quiz"/>
+    <string name="leaderboard_luckers"/>
     <string name="leaderboards">Рекорды</string>
     <string name="leaved">Нажал \'покинуть\'</string>
     <string name="level">Уровень</string>
@@ -461,6 +504,16 @@
     <string name="matches_played_header">Матчей Сыграно</string>
     <string name="mc">Расход маны:</string>
     <string name="melee">{0} (Ближний)</string>
+    <string name="menu_about">ABOUT</string>
+    <string name="menu_check_for_update">CHECK FOR UPDATE</string>
+    <string name="menu_counter_pick">COUNTER PICK</string>
+    <string name="menu_exit">QUIT APP</string>
+    <string name="menu_items_game">ITEMS</string>
+    <string name="menu_news_dota">NEWS</string>
+    <string name="menu_quiz">QUIZ GAME</string>
+    <string name="menu_recent_match">RECENT MATCH RESULT</string>
+    <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
+    <string name="menu_twitch_tv">TWITCH.TV</string>
     <string name="metric">Тип статистики:</string>
     <string name="minutes_">{0} минут</string>
     <string name="missile_speed">Скорость полета снаряда</string>
@@ -497,6 +550,7 @@
     <string name="press_refresh_button">Нажмите кнопку \'Обновить\'</string>
     <string name="quality">Качество</string>
     <string name="quiz">ВИКТОРИНА</string>
+    <string name="radiant">RADIANT</string>
     <string name="radiant_win">Radiant победили</string>
     <string name="ready">Готово</string>
     <string name="recipe">Рецепт</string>
@@ -544,6 +598,10 @@
     <string name="streams_">{0} стримов</string>
     <string name="sure_delete_Guide">Уверены,что хотите удалить гайд?</string>
     <string name="sure_delete_part">Уверены, что хотите удалить часть?</string>
+    <string name="tab_counter_pick">Counter Pick</string>
+    <string name="tab_hero">Hero</string>
+    <string name="tab_menu">Menu</string>
+    <string name="tab_quiz">Quiz</string>
     <string name="team_wins_">Победа {0}!</string>
     <string name="time">Временной интервал:</string>
     <string name="tooltips">ПОДСКАЗКИ</string>
@@ -553,6 +611,7 @@
     <string name="tower_damage"><b>Урона вышкам:</b></string>
     <string name="tower_damage_">Урон: {0}</string>
     <string name="trackdota_match">Открыть через Trackdota</string>
+    <string name="truepicker">Truepicker.com</string>
     <string name="truepicker_attention">Для функции контрпик используется апи сервиса TruePicker.com.\n
         Поэтому функция контрпик работает только при наличии интернет-соединения.\n
         Победа в случае выбора указанного героя Вам не гарантируется.\n
@@ -579,4 +638,5 @@
     <string name="xpm"><b>XPM:</b></string>
     <string name="xpm_">XPM: {0}</string>
     <string name="xpm_header">Опыт / Минута</string>
+    <string name="youtube_api">YOUR_YOUTUBE_API_HERE</string>
 </resources>

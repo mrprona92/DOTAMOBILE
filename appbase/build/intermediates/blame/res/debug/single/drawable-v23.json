@@ -1,22 +1,26 @@
 [
     {
-        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/appbase/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
     },
     {
-        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Workspace_learn\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
-        "merged": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
-        "source": "D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\admin\\Downloads\\Infodota-master\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\res\\merged\\debug\\drawable-v23\\abc_control_background_material.xml",
+        "source": "/Users/DotaInfo/DOTAMOBILE/D:\\Users\\DotaInfo\\DOTAMOBILE\\D:\\Users\\DotaInfo\\DOTAMOBILE\\appbase\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\drawable-v23\\abc_control_background_material.xml"
     }
 ]
