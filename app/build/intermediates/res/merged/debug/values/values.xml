@@ -918,8 +918,6 @@
     <string name="check_new_version">Check for updates</string>
     <string name="choose_hero_skill">Choose ability of this hero</string>
     <string name="choose_items_from">Test Your Dota 2 items knowledge</string>
-    <string name="cmn_cancel">CANCEL</string>
-    <string name="cmn_ok">OK</string>
     <string name="coming_soon">Coming soon</string>
     <string name="common">COMMON</string>
     <string name="core_items">CORE ITEMS</string>
@@ -1093,13 +1091,13 @@
     <string name="mc">Mana cost:</string>
     <string name="melee">{0} (Melee)</string>
     <string name="menu_about">ABOUT</string>
-    <string name="menu_counter_pick">COUNTER PICK</string>
+    <string name="menu_check_for_update">CHECK FOR UPDATE</string>
     <string name="menu_exit">QUIT APP</string>
     <string name="menu_items_game">ITEMS</string>
     <string name="menu_news_dota">NEWS</string>
-    <string name="menu_quiz">QUIZ GAME</string>
     <string name="menu_recent_match">RECENT MATCH RESULT</string>
     <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
+    <string name="menu_twitch_tv">TWITCH.TV</string>
     <string name="metric">Stats type:</string>
     <string name="minutes_">{0} minutes</string>
     <string name="missile_speed">Missile Speed</string>
@@ -2153,21 +2151,6 @@
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
     <style name="Button"/>
-    <style name="Button.Dialog" parent="Layout.WrapWidthHeight">
-        <item name="android:gravity">center</item>
-        <item name="android:layout_height">@dimen/btn_height_medium</item>
-        <item name="android:background">@android:color/transparent</item>
-        <item name="android:layout_gravity">center</item>
-        <item name="android:textColor">@color/cmn_white</item>
-        <item name="android:minWidth">70dp</item>
-        <item name="android:padding">@dimen/padding_normal</item>
-        <item name="android:textSize">@dimen/text_title</item>
-    </style>
-    <style name="Button.Dialog.Green" parent="Button.Dialog">
-        <item name="android:background">@drawable/bg_common_round_green</item>
-        <item name="android:textSize">@dimen/text_normal</item>
-        <item name="android:padding">@dimen/padding_small</item>
-    </style>
     <style name="CardView">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
         <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
@@ -2181,10 +2164,6 @@
     </style>
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
-    </style>
-    <style name="DialogAnimation">
-        <item name="android:windowEnterAnimation">@anim/zoom_out</item>
-        <item name="android:windowExitAnimation">@anim/fadeout</item>
     </style>
     <style name="DialogThemeFullScreen" parent="android:Theme.Dialog">
         <item name="android:layout_width">fill_parent</item>
@@ -3208,7 +3187,7 @@
     <style name="myToolBar" parent="Widget.AppCompat.Toolbar">
         <item name="android:layout_height">45dp</item>
         <item name="android:layout_width">match_parent</item>
-        <item name="android:background">@color/tabbar_active</item>
+        <item name="android:background">@color/colorPrimary</item>
         <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
         <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
     </style>

@@ -31,11 +31,13 @@ public class DHMenuAdapter extends RecyclerView.Adapter<DHMenuAdapter.ViewHolder
     // 50*50 is for xxhdpi
     private void initializeMenuItems() {
         mArrayMenuItems = new MenuItem[]{
-                new MenuItem(R.string.menu_items_game, R.drawable.ic_menu_quit, 1, false),
-                new MenuItem(R.string.menu_news_dota, R.drawable.ic_menu_quit, 1, false),
-                new MenuItem(R.string.menu_tournament_match, R.drawable.ic_menu_quit, 1, false),
-                new MenuItem(R.string.menu_recent_match, R.drawable.ic_menu_quit, 2, false),
-                new MenuItem(R.string.menu_about, R.drawable.ic_menu_quit, 2, false),
+                new MenuItem(R.string.menu_items_game, R.drawable.ic_menu_items, 1, false),
+                new MenuItem(R.string.menu_news_dota, R.drawable.ic_menu_news, 1, false),
+                new MenuItem(R.string.menu_tournament_match, R.drawable.ic_menu_tournament, 1, false),
+                new MenuItem(R.string.menu_recent_match, R.drawable.ic_menu_recentmatch, 2, false),
+                new MenuItem(R.string.menu_twitch_tv, R.drawable.ic_menu_twitch, 1, false),
+                new MenuItem(R.string.menu_check_for_update, R.drawable.ic_menu_check_update, 2, false),
+                new MenuItem(R.string.menu_about, R.drawable.ic_menu_about, 2, false),
                 new MenuItem(R.string.menu_exit, R.drawable.ic_menu_quit, 1, false),
         };
     }

@@ -348,6 +348,8 @@
     <string name="menu_news_dota">NEWS</string>
     <string name="menu_tournament_match">TOURNAMENT SCHEDULE</string>
     <string name="menu_recent_match">RECENT MATCH RESULT</string>
+    <string name="menu_twitch_tv">TWITCH.TV</string>
+    <string name="menu_check_for_update">CHECK FOR UPDATE</string>
     <string name="menu_about">ABOUT</string>
     <string name="menu_exit">QUIT APP</string>
 

@@ -1,14 +1,14 @@
 [
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/layout-sw600dp/design_layout_snackbar.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\hero_skill_row.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-sw600dp\\hero_skill_row.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/main_fragment_holder.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-sw600dp/main_fragment_holder.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.0.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/DotaInfo/DOTAMOBILE/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/hero_skill_row.xml",
-        "source": "/Users/DotaInfo/DOTAMOBILE/app/src/main/res/layout-sw600dp/hero_skill_row.xml"
+        "merged": "D:\\Workspace_learn\\DOTAMOBILE\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\main_fragment_holder.xml",
+        "source": "D:\\Workspace_learn\\DOTAMOBILE\\app\\src\\main\\res\\layout-sw600dp\\main_fragment_holder.xml"
     }
 ]

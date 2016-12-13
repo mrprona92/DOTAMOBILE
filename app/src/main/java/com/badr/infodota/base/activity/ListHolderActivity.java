@@ -1,9 +1,9 @@
 package com.badr.infodota.base.activity;
 
-import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.os.Bundle;
@@ -179,6 +179,10 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
         bar.setDisplayShowTitleEnabled(false);
         bar.setDisplayShowHomeEnabled(false);
 
+        SharedPreferences preferences = PreferenceManager.getDefaultSharedPreferences(this);
+        preferences.edit().remove("mainMenuLastSelected").commit();
+        UpdateUtils.checkNewVersion(this, false);
+
         navSpinner= (Spinner) mToolbar.findViewById(R.id.nav_spinner);
         ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
                 R.layout.spinner_item, getResources().getStringArray(R.array.main_menu));
@@ -287,7 +291,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
 
     @Override
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
-
         if (lastSelected != position) {
             switch (position) {
                 default:
@@ -465,7 +468,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
     }
 
     public void onChangeFragment(int position) {
-        if (lastSelected != position) {
             switch (position) {
                 default:
                 case 0:
@@ -481,10 +483,15 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                     mFragmentDetails = new TrackdotaMain();
                     break;
                 case 4:
-                    //TODO call about
-                    mFragmentDetails = new CosmeticItemsList();
+                    mFragmentDetails = new TwitchHolder();
                     break;
                 case 5:
+                    UpdateUtils.checkNewVersion(ListHolderActivity.this, true);
+                    break;
+                case 6:
+                    startActivity(new Intent(ListHolderActivity.this, AboutActivity.class));
+                    break;
+                case 7:
                     //TODO quit app
                     AlertDialog alertDialog = new AlertDialog.Builder(ListHolderActivity.this).create();
                     alertDialog.setTitle("Reset...");
@@ -498,10 +505,6 @@ public class ListHolderActivity extends BaseActivity implements SearchView.OnQue
                     break;
             }
             replaceFragment(mFragmentDetails);
-            lastSelected = position;
-            SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-            prefs.edit().putInt("mainMenuLastSelected", lastSelected).commit();
-        }
     }
 
 
